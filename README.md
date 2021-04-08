@@ -9,7 +9,7 @@ Resource files should be easy to identify, both in terms of which files to trans
 ## standard file formats
 The <code>standard</code> directory shows illustrative examples of standard resource file formats. Programming languages have mature libraries and components for standard files, from the basic reading and displaying strings, to parameters passing and fallback locales. 
 
-Standard file formats can be used in a variety of downstream processes and products, from <b>[Lingoport Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/)</b> to <b>[Localyzer Express](https://lingoport.com/software-internationalization-products/express-suite/)</b> and <b>[LocalyzerQA](https://lingoport.com/software-internationalization-products/localyzerqa-linguistic-qa/)</b> to TMS's or even pure Machine Translation engines. In the <coce>standard</code> directory, we show a few simple example of standard files well understood by the industry ecosystem.
+Standard file formats can be used in a variety of downstream processes and products, from <b>Lingoport [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/)</b> to <b>[Localyzer Express](https://lingoport.com/software-internationalization-products/express-suite/)</b> and <b>[LocalyzerQA](https://lingoport.com/software-internationalization-products/localyzerqa-linguistic-qa/)</b> to TMS's or even pure Machine Translation engines. In the <coce>standard</code> directory, we show a few simple example of standard files well understood by the industry ecosystem.
 
 ## non standard file formats
 For developers with little knowledge of i18n and L10n, creating and reading from a special file format may look like a good idea. However, non standard file formats usage tends to be short-sighted. It prevents the L10n ecosystem from working with them out of the box. 
@@ -20,5 +20,5 @@ The <code>nonstandard</code> directory shows a few illustrative examples of some
 We strongly recommend using standard file formats whenever possible for a better overall software localization.
 
 ## Localyzer
-In the case of <b>[Lingoport Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/)</b>, there are a number of mechanism to handle non standard file formats, especially the transform framework which allows non standard files to be transformed into temporary standard files for L10n purposes and still keep the non standard file formats for the application and its repository.
+In the case of <b>Lingoport [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/)</b>, there are a number of mechanism to handle non standard file formats, especially the transform framework which allows non standard files to be transformed into temporary standard files for L10n purposes and still keep the non standard file formats for the application and its repository.
  
