@@ -7,7 +7,7 @@ Resource files are part of an application code. They contain user facing strings
 Resource files should be easy to identify, both in terms of which files to translate and which files were translated. They should also contain key value pairs so that the application references a key and a locale to get the corresponding value, or string, in that locale. 
 
 ## standard file formats
-The <code>standard</code> directory shows illustrative examples of standard resource file formats. Programming languages have libraries and components with the proper handling of standard files, from the basic reading and displaying strings, to parameters passing and fallback locales. 
+The <code>standard</code> directory shows illustrative examples of standard resource file formats. Programming languages have mature libraries and components for standard files, from the basic reading and displaying strings, to parameters passing and fallback locales. 
 
 Standard file formats can be used in a variety of downstream processes and products, from <b>Lingoport Localyzer</b> to <b>Localyzer Express</b> and <b>LocalyzerQA</b> to TMS's or even pure Machine Translation engines. In the <coce>standard</code> directory, we show a few simple example of standard files well understood by the industry ecosystem.
 
