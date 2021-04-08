@@ -1,0 +1,23 @@
+{
+  "issueDescription": {
+    "messages": {
+      "onprem": "此 WLC“{wlcName}”当前经许可支持 {maxCount} 个 AP，且目前已有 {inUseCount} 个 AP。如果这种趋势继续下去，此 WLC 将耗尽其所有 AP 许可证。"
+    },
+    "attributes": {
+      "00000_LRMARRCONV": {
+        "params": {
+          "00000_LRMARRCONV": "wlcName",
+          "00001_LRMARRCONV": "maxCount",
+          "00002_LRMARRCONV": "inUseCount"
+        }
+      }
+    }
+  },
+  "suggestedActions": {
+    "00000_LRMARRCONV": {
+      "messages": {
+        "onprem": "购买和安装其他 AP adder 许可证。"
+      }
+    }
+  }
+}

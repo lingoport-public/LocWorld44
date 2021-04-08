@@ -1,0 +1,19 @@
+﻿#################################################
+# Strings for use in GUI
+#################################################
+
+CloseButtonText,Schließen
+ApplyButtonText,Anwenden
+CancelButtonText,Abbrechen
+YesButtonText,Ja
+NoButtonText,Nein
+OkButtonText,OK
+ContinueButtonText,Weiter
+ConnectButtonText,Verbinden
+DisconnectButtonText,Verbindung trennen
+RestoreDefaultsButton,Standard wiederherstellen
+SaveAsDefaultsButton,Als Standardwerte speichern
+ApplyToDevicesButton,Auf Geräte anwenden…
+RestoreFactorySettingsButton,Werkseitige Voreinstellungen wiederherstellen
+BrowseButtonText,Durchsuchen …
+UpdateButtonText,Aktualisieren

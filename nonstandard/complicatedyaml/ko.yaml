@@ -1,0 +1,26 @@
+# #######
+# Messages for "tagging"
+
+- key: barcelona_too_many_tags
+  translation:
+    msg: "관리 개체의 태그는 %d개를 초과할 수 없습니다."
+- key: barcelona_invalid_tag_prefix
+  translation:
+    msg: "태그 키는 예약된 접두사 '%s'(으)로 시작할 수 없습니다."
+- key: barcelona_tag_cannot_be_empty
+  translation:
+    msg: "태그 키는 빈 문자열일 수 없습니다. 키에는 하나 이상의 문자가 포함되어야 합니다."
+- key: barcelona_duplicate_tag_key
+  translation:
+    msg: "관리 개체 '%s'의 태그 키 '%s'은(는) 한 번 이상 설정되었습니다. 관리 개체에는 중복 태그 키가 있을 수 없습니다."
+- key: barcelona_tag_key_too_long
+  translation:
+    msg: "태그 키 '%s’에 너무 많은 문자가 포함되어 있습니다. 태그 키의 최대 길이는 %d자입니다."
+- key: barcelona_tag_value_too_long
+  translation:
+    msg: "태그 값 '%s’에 너무 많은 문자가 포함되어 있습니다. 태그 값의 최대 길이는 %d자입니다."
+- key: barcelona_tag_summary_unauthorized
+  translation:
+    msg: "이 요청은 인증되지 않은 요청입니다."
+
+# #######

@@ -1,0 +1,45 @@
+DN: cn=1,ou=evtypes,dc=plasec
+plasecName: عبث
+
+DN: cn=2,ou=evtypes,dc=plasec
+plasecName: الطاقة
+
+DN: cn=3,ou=evtypes,dc=plasec
+plasecName: باب تم فرض إغلاقه
+
+DN: cn=4,ou=evtypes,dc=plasec
+plasecName: باب تُرك مفتوحًا
+
+DN: cn=5,ou=evtypes,dc=plasec
+plasecName: اختراق
+
+DN: cn=6,ou=evtypes,dc=plasec
+plasecName: الصيانة
+
+DN: cn=7,ou=evtypes,dc=plasec
+plasecName: بيانات اعتماد غير صالحة
+
+DN: cn=8,ou=evtypes,dc=plasec
+plasecName: بيانات اعتماد صالحة
+
+DN: cn=9,ou=evtypes,dc=plasec
+plasecName: الاتصالات
+
+DN: cn=10,ou=evtypes,dc=plasec
+plasecName: النظام
+
+DN: cn=12,ou=evtypes,dc=plasec
+plasecName: الإخراج
+
+DN: cn=13,ou=evtypes,dc=plasec
+plasecName: تدقيق المستخدم
+
+DN: cn=14,ou=evtypes,dc=plasec
+plasecName: الفيديو
+
+DN: cn=15,ou=evtypes,dc=plasec
+plasecName: تدقيق النظام
+
+DN: cn=17,ou=evtypes,dc=plasec
+plasecName: إحصاء حيوي
+

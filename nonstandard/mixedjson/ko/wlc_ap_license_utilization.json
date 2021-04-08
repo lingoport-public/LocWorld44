@@ -1,0 +1,23 @@
+{
+  "issueDescription": {
+    "messages": {
+      "onprem": "이 WLC \"{wlcName}\"은(는) 현재 {maxCount} AP를 지원하도록 사용이 허가되어 현재 {inUseCount} AP가 있습니다. 이러한 추세가 계속되면 이 WLC의 AP 라이선스는 모두 소진될 것입니다."
+    },
+    "attributes": {
+      "00000_LRMARRCONV": {
+        "params": {
+          "00000_LRMARRCONV": "wlcName",
+          "00001_LRMARRCONV": "maxCount",
+          "00002_LRMARRCONV": "inUseCount"
+        }
+      }
+    }
+  },
+  "suggestedActions": {
+    "00000_LRMARRCONV": {
+      "messages": {
+        "onprem": "추가 AP adder 라이선스를 구매하여 설치합니다."
+      }
+    }
+  }
+}

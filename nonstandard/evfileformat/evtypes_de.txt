@@ -1,0 +1,45 @@
+DN: cn=1,ou=evtypes,dc=plasec
+plasecName: Manipulation
+
+DN: cn=2,ou=evtypes,dc=plasec
+plasecName: Stromversorgung
+
+DN: cn=3,ou=evtypes,dc=plasec
+plasecName: Aufgebrochene Tür
+
+DN: cn=4,ou=evtypes,dc=plasec
+plasecName: Tür offengehalten
+
+DN: cn=5,ou=evtypes,dc=plasec
+plasecName: Einbruch
+
+DN: cn=6,ou=evtypes,dc=plasec
+plasecName: Wartung
+
+DN: cn=7,ou=evtypes,dc=plasec
+plasecName: Ungültiger Ausweis
+
+DN: cn=8,ou=evtypes,dc=plasec
+plasecName: Gültiger Ausweis
+
+DN: cn=9,ou=evtypes,dc=plasec
+plasecName: Kommunikation
+
+DN: cn=10,ou=evtypes,dc=plasec
+plasecName: System
+
+DN: cn=12,ou=evtypes,dc=plasec
+plasecName: Ausgabe
+
+DN: cn=13,ou=evtypes,dc=plasec
+plasecName: Benutzerprüfung
+
+DN: cn=14,ou=evtypes,dc=plasec
+plasecName: Video
+
+DN: cn=15,ou=evtypes,dc=plasec
+plasecName: Systemprüfung
+
+DN: cn=17,ou=evtypes,dc=plasec
+plasecName: Biometrisch
+

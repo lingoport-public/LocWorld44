@@ -1,0 +1,8 @@
+{
+  "AddAsset": " Ajouter ",
+  "AddTutorial": " Ajouter Tutoriel",
+  "createdDashboard": "Créer le tableau de bord",
+  "deletedDashboard": "Supprimer le tableau de bord",
+  "deletedTask": "Supprimer la tâche ${taskName}",
+  "useLink": "Suive le lien"
+}

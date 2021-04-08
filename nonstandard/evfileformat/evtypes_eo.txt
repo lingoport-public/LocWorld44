@@ -1,0 +1,45 @@
+DN: cn=1,ou=evtypes,dc=plasec
+plasecName: [Ţåɱþéŕ----- П國カ내]
+
+DN: cn=2,ou=evtypes,dc=plasec
+plasecName: [Þöŵéŕ--- П國カ내]
+
+DN: cn=3,ou=evtypes,dc=plasec
+plasecName: [Ƒöŕçéð Ðööŕ---- П國カ내]
+
+DN: cn=4,ou=evtypes,dc=plasec
+plasecName: [Ðööŕ ĥéļð öþéñ------- П國カ내]
+
+DN: cn=5,ou=evtypes,dc=plasec
+plasecName: [Îñţŕûšîöñ----------- П國カ내]
+
+DN: cn=6,ou=evtypes,dc=plasec
+plasecName: [Ṁåîñţéñåñçé---- П國カ내]
+
+DN: cn=7,ou=evtypes,dc=plasec
+plasecName: [Îñṽåļîð Çŕéðéñţîåļ----------- П國カ내]
+
+DN: cn=8,ou=evtypes,dc=plasec
+plasecName: [Ṽåļîð Çŕéðéñţîåļ--------- П國カ내]
+
+DN: cn=9,ou=evtypes,dc=plasec
+plasecName: [Çöɱɱûñîçåţîöñš------- П國カ내]
+
+DN: cn=10,ou=evtypes,dc=plasec
+plasecName: [Šýšţéɱ----- П國カ내]
+
+DN: cn=12,ou=evtypes,dc=plasec
+plasecName: [Öûţþûţ----- П國カ내]
+
+DN: cn=13,ou=evtypes,dc=plasec
+plasecName: [Ûšéŕ åûðîţ------------- П國カ내]
+
+DN: cn=14,ou=evtypes,dc=plasec
+plasecName: [Ṽîðéö--- П國カ내]
+
+DN: cn=15,ou=evtypes,dc=plasec
+plasecName: [Šýšţéɱ åûðîţ----- П國カ내]
+
+DN: cn=17,ou=evtypes,dc=plasec
+plasecName: [Ɓîöɱéţŕîç----------- П國カ내]
+

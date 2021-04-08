@@ -1,0 +1,45 @@
+DN: cn=1,ou=evtypes,dc=plasec
+plasecName: 篡改
+
+DN: cn=2,ou=evtypes,dc=plasec
+plasecName: 电源
+
+DN: cn=3,ou=evtypes,dc=plasec
+plasecName: 强制入口
+
+DN: cn=4,ou=evtypes,dc=plasec
+plasecName: 入口保持打开
+
+DN: cn=5,ou=evtypes,dc=plasec
+plasecName: 入侵
+
+DN: cn=6,ou=evtypes,dc=plasec
+plasecName: 维护
+
+DN: cn=7,ou=evtypes,dc=plasec
+plasecName: 凭据无效
+
+DN: cn=8,ou=evtypes,dc=plasec
+plasecName: 有效凭据
+
+DN: cn=9,ou=evtypes,dc=plasec
+plasecName: 通信
+
+DN: cn=10,ou=evtypes,dc=plasec
+plasecName: 系统
+
+DN: cn=12,ou=evtypes,dc=plasec
+plasecName: 输出
+
+DN: cn=13,ou=evtypes,dc=plasec
+plasecName: 用户审核
+
+DN: cn=14,ou=evtypes,dc=plasec
+plasecName: 视频
+
+DN: cn=15,ou=evtypes,dc=plasec
+plasecName: 系统审核
+
+DN: cn=17,ou=evtypes,dc=plasec
+plasecName: 生物识别
+

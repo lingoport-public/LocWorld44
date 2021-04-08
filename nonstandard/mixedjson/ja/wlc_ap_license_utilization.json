@@ -1,0 +1,23 @@
+{
+  "issueDescription": {
+    "messages": {
+      "onprem": "このWLC \"{wlcName}\"は現在{maxCount}のAPをサポートするライセンス付与されており、現在{inUseCount}のAP があります。このような傾向が続くと、このWLC はすべてのAPライセンスを使い果たします。"
+    },
+    "attributes": {
+      "00000_LRMARRCONV": {
+        "params": {
+          "00000_LRMARRCONV": "wlcName",
+          "00001_LRMARRCONV": "maxCount",
+          "00002_LRMARRCONV": "inUseCount"
+        }
+      }
+    }
+  },
+  "suggestedActions": {
+    "00000_LRMARRCONV": {
+      "messages": {
+        "onprem": "AP追加ライセンスを追加で購入してインストールします。"
+      }
+    }
+  }
+}

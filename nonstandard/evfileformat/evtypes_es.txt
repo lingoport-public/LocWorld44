@@ -1,0 +1,45 @@
+DN: cn=1,ou=evtypes,dc=plasec
+plasecName: Alterar
+
+DN: cn=2,ou=evtypes,dc=plasec
+plasecName: Potencia
+
+DN: cn=3,ou=evtypes,dc=plasec
+plasecName: Puerta forzada
+
+DN: cn=4,ou=evtypes,dc=plasec
+plasecName: Puerta dejada abierta
+
+DN: cn=5,ou=evtypes,dc=plasec
+plasecName: Intrusión
+
+DN: cn=6,ou=evtypes,dc=plasec
+plasecName: Mantenimiento
+
+DN: cn=7,ou=evtypes,dc=plasec
+plasecName: Credencial no válida
+
+DN: cn=8,ou=evtypes,dc=plasec
+plasecName: Credencial válida
+
+DN: cn=9,ou=evtypes,dc=plasec
+plasecName: Comunicaciones
+
+DN: cn=10,ou=evtypes,dc=plasec
+plasecName: Sistema
+
+DN: cn=12,ou=evtypes,dc=plasec
+plasecName: Salida
+
+DN: cn=13,ou=evtypes,dc=plasec
+plasecName: Auditoría de usuarios
+
+DN: cn=14,ou=evtypes,dc=plasec
+plasecName: Vídeo
+
+DN: cn=15,ou=evtypes,dc=plasec
+plasecName: Auditoría del sistema
+
+DN: cn=17,ou=evtypes,dc=plasec
+plasecName: Biométrico
+

@@ -1,0 +1,26 @@
+# #######
+# Messages for "tagging"
+
+- key: barcelona_too_many_tags
+  translation:
+    msg: "管理対象オブジェクトは%d個を超えるタグを持つことはできません"
+- key: barcelona_invalid_tag_prefix
+  translation:
+    msg: "タグキーは予約済みプレフィックス '%s' で始めることはできません"
+- key: barcelona_tag_cannot_be_empty
+  translation:
+    msg: "タグキーは空の文字列にはできません。キーは少なくとも1つ以上の文字でなければなりません"
+- key: barcelona_duplicate_tag_key
+  translation:
+    msg: "タグキー '%s' は管理対象オブジェクト '%s' で複数回設定されています。管理対象オブジェクトは重複したタグキーを持つことはできません"
+- key: barcelona_tag_key_too_long
+  translation:
+    msg: "タグキー '%s' に含まれる文字が多すぎます。タグキーの最大長は%d文字です"
+- key: barcelona_tag_value_too_long
+  translation:
+    msg: "タグ値 '%s' に含まれる文字が多すぎます。タグ値の最大長は%d文字です"
+- key: barcelona_tag_summary_unauthorized
+  translation:
+    msg: "この要求は不正な要求です"
+
+# #######

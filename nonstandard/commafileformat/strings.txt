@@ -1,0 +1,20 @@
+﻿#################################################
+# Strings for use in GUI
+#################################################
+
+CloseButtonText,Close
+ApplyButtonText,Apply
+CancelButtonText,Cancel
+AbortButtonText,Abort
+YesButtonText,Yes
+NoButtonText,No
+OkButtonText,OK
+ContinueButtonText,Continue
+ConnectButtonText,Connect
+DisconnectButtonText,Disconnect
+RestoreDefaultsButton,Restore Defaults
+SaveAsDefaultsButton,Save as Defaults
+ApplyToDevicesButton,Apply to Devices…
+RestoreFactorySettingsButton,Restore Factory Defaults
+BrowseButtonText,Browse…
+UpdateButtonText,Update

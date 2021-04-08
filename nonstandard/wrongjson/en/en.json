@@ -1,0 +1,2118 @@
+﻿[
+    {
+        "id": "respinSecondChanceFss",
+        "text": "The reels that do not have a Wild or a Scatter symbol on them re-spin for a chance to get another Scatter symbol on the reels and activate Free Spins."
+    },
+    {
+        "id": "0",
+        "text": "The game is currently not available. Try again later."
+    },
+    {
+        "id": "10",
+        "text": "There is not enough money in your account."
+    },
+    {
+        "id": "100",
+        "text": "There is not enough money in your account."
+    },
+    {
+        "id": "101",
+        "text": "There is not enough money on your Casino account."
+    },
+    {
+        "id": "102",
+        "text": "Your autoplay has been cancelled."
+    },
+    {
+        "id": "11",
+        "text": "You have reached your play limit. Welcome back later."
+    },
+    {
+        "id": "110",
+        "text": "The game cannot be started. Try again later."
+    },
+    {
+        "id": "12",
+        "text": "The current bet could not be made due to the expiry of a bonus."
+    },
+    {
+        "id": "120",
+        "text": "This option is only available after you have finished the game round."
+    },
+    {
+        "id": "121",
+        "text": "To start autoplay you must place a bet."
+    },
+    {
+        "id": "122",
+        "text": "The race movie could not be played."
+    },
+    {
+        "id": "13",
+        "text": "Your bet has exceeded the maximum bet limit set for this game."
+    },
+    {
+        "id": "14",
+        "text": "Please reload to refresh balance in game."
+    },
+    {
+        "id": "15",
+        "text": "There is not enough money in your account. Please add more money or reduce your bet."
+    },
+    {
+        "id": "16",
+        "text": "Sorry. Free Rounds offer is already used."
+    },
+    {
+        "id": "20",
+        "text": "Your session has timed out. Restart the game."
+    },
+    {
+        "id": "25",
+        "text": "All gaming has been disabled."
+    },
+    {
+        "id": "40",
+        "text": "This tournament has not started yet, please try again later."
+    },
+    {
+        "id": "50",
+        "text": "This tournament has ended."
+    },
+    {
+        "id": "51",
+        "text": "There is not enough money in your account."
+    },
+    {
+        "id": "53",
+        "text": "The game is currently not available. Try again later."
+    },
+    {
+        "id": "56",
+        "text": "The game is currently not available. Try again later."
+    },
+    {
+        "id": "58",
+        "text": "The game is currently not available. Try again later."
+    },
+    {
+        "id": "59",
+        "text": "Client already logged in. Try again later."
+    },
+    {
+        "id": "60",
+        "text": "This tournament has ended, the last played round will not be part of the tournament statistics."
+    },
+    {
+        "id": "70",
+        "text": "We cannot reach your account at the moment. Please try again later."
+    },
+    {
+        "id": "addFspinsCanWin",
+        "text": "Additional Free Spins can be won during Free Spins."
+    },
+    {
+        "id": "addValue",
+        "text": "Add Value"
+    },
+    {
+        "id": "advancedAutoplaySettingsPUI",
+        "text": "To set advanced Autoplay settings, click on the Autoplay button and choose the number of Autoplay rounds. Then click Advanced Settings to choose one or more stop conditions. To start the Autoplay rounds, click on the Spin button."
+    },
+    {
+        "id": "advancedAutoplaySettingsTouchPUI",
+        "text": "To set advanced Autoplay settings, tap on the Autoplay button, choose the number of Autoplay rounds. Then tap on the arrow to choose one or more stop conditions. To start the Autoplay rounds, tap on the Play button."
+    },
+    {
+        "id": "advancedSettings",
+        "text": "Advanced settings"
+    },
+    {
+        "id": "allWildsVolcano",
+        "text": "All Wild symbols substitute for all symbols, except Scatter symbol."
+    },
+    {
+        "id": "autoplayBear",
+        "text": "Select Bear"
+    },
+    {
+        "id": "autoplayButtonTwoLine",
+        "text": "AUTO\u003cbr\u003ePLAY"
+    },
+    {
+        "id": "autoplayCobra",
+        "text": "Select Cobra"
+    },
+    {
+        "id": "autoplayCrocodile",
+        "text": "Select Crocodile"
+    },
+    {
+        "id": "autoplayDesktopChoosePUI",
+        "text": "Click to choose the number of Autoplay rounds and advanced Autoplay settings."
+    },
+    {
+        "id": "autoplayElephant",
+        "text": "Select Elephant"
+    },
+    {
+        "id": "autoplayNumberChosenButtonPUI",
+        "text": "If Autoplay rounds have been chosen, the remaining number of rounds is displayed on the Spin button. Click the Spin button to stop Autoplay."
+    },
+    {
+        "id": "autoplayNumberChosenButtonTouchPUI",
+        "text": "If Autoplay rounds have been chosen, the remaining number of rounds is displayed on the Spin button. Tap the Spin button to stop Autoplay."
+    },
+    {
+        "id": "autoplayPanelLabel",
+        "text": "Autoplay"
+    },
+    {
+        "id": "autoplayPanelStartText",
+        "text": "Select to start"
+    },
+    {
+        "id": "autoplayStopText",
+        "text": "STOP"
+    },
+    {
+        "id": "autoplayTiger",
+        "text": "Select Tiger"
+    },
+    {
+        "id": "autoplayTouchChoosePUI",
+        "text": "Tap to choose the number of Autoplay rounds and advanced Autoplay settings."
+    },
+    {
+        "id": "autoRounds",
+        "text": "rounds"
+    },
+    {
+        "id": "autoSpins",
+        "text": "spins"
+    },
+    {
+        "id": "betExceedCDB",
+        "text": "Your bet has exceeded the if cash decreases by limit. Please increase the limit."
+    },
+    {
+        "id": "betLinesPaytable",
+        "text": "BET LINES"
+    },
+    {
+        "id": "betNumberCoinsCashPUI",
+        "text": "\u003cb\u003eBET\u003c/b\u003e is the amount of coins or cash to bet."
+    },
+    {
+        "id": "betterLuckNextTimeA",
+        "text": "Better luck next time!"
+    },
+    {
+        "id": "betValuePUITouchVoice",
+        "text": "When playing with coins, the bet value is set by tapping the Bet Settings button and selecting the coin value. When playing with cash, the bet value is set by tapping the Bet Settings button and selecting the bet."
+    },
+    {
+        "id": "betwayLeftRight",
+        "text": "Bet way wins pay if in succession from leftmost to right."
+    },
+    {
+        "id": "bonusAwardedCongrats",
+        "text": "Congratulations! You have been awarded {0} bonus."
+    },
+    {
+        "id": "bonusAwardedTitle",
+        "text": "Bonus Awarded"
+    },
+    {
+        "id": "bonusBetInfo",
+        "text": "Activate the Bonus Bet to increase the chance of Free Spins and hot reels."
+    },
+    {
+        "id": "bonusBetInfo2",
+        "text": "Bonus Bet activated, chances increased."
+    },
+    {
+        "id": "bonusBetNotTranslated",
+        "text": "Bonus Bet"
+    },
+    {
+        "id": "bonusBetNotTranslatedUC",
+        "text": "BONUS BET"
+    },
+    {
+        "id": "bonusBetSCS1",
+        "text": "Activating Bonus Bet: Second Chance Scatter™: 1. Doubles the bet; 2. Randomly activates the Second Chance Scatter™ Re-Spin if 2 Scatter or Wild symbols landed on the reels. The reels that do not have a Wild or a Scatter symbol on them re-spin for a chance to get another Scatter symbol on the reels and activate Free Spins."
+    },
+    {
+        "id": "bonusBetSCSactivation",
+        "text": "The Bonus Bet: Second Chance Scatter™ can be activated and deactivated in the main game."
+    },
+    {
+        "id": "bonusBetSCShead",
+        "text": "BONUS BET: SECOND CHANCE SCATTER™"
+    },
+    {
+        "id": "bonusBetSecondChanceHead",
+        "text": "Bonus Bet: Second Chance Scatter™"
+    },
+    {
+        "id": "browserVersionNotSupported",
+        "text": "Unfortunately, this browser version is not supported."
+    },
+    {
+        "id": "button_CONTINUE",
+        "text": "CONTINUE"
+    },
+    {
+        "id": "button_START",
+        "text": "START"
+    },
+    {
+        "id": "cashCoinsSwitchAnyTimePUI",
+        "text": "The game can be played with cash or coins and a player can switch between the two at any time during a game, including Free Spins."
+    },
+    {
+        "id": "cashCoinsSwitchDescription",
+        "text": "The game can be played with cash or coins. To switch between cash and coins, go to the Game Settings."
+    },
+    {
+        "id": "cashCoinsSwitchSetting",
+        "text": "Switches between bet in cash and bet in coins."
+    },
+    {
+        "id": "cashCoinsToggleTitleSettings",
+        "text": "Cash or Coins"
+    },
+    {
+        "id": "cashUC",
+        "text": "CASH"
+    },
+    {
+        "id": "clickActivateBBNoTrans",
+        "text": "Click to activate/deactivate the Bonus Bet."
+    },
+    {
+        "id": "clickViewSettingsMenu",
+        "text": "Click to view the game settings menu."
+    },
+    {
+        "id": "clickWinCombinations",
+        "text": "Click to view winning combinations and payouts."
+    },
+    {
+        "id": "close_btn",
+        "text": "Close"
+    },
+    {
+        "id": "coinvaluebutton",
+        "text": "Coin Value"
+    },
+    {
+        "id": "congratsLC",
+        "text": "Congratulations!"
+    },
+    {
+        "id": "congratsUC",
+        "text": "CONGRATULATIONS!"
+    },
+    {
+        "id": "connectionQualityPoor",
+        "text": "Connection: Poor"
+    },
+    {
+        "id": "Continue",
+        "text": "Continue"
+    },
+    {
+        "id": "cookiePolicy",
+        "text": "This game uses cookies for statistics and to improve user experience. Please confirm that you accept our"
+    },
+    {
+        "id": "cookiePolicyPart2",
+        "text": "cookie policy."
+    },
+    {
+        "id": "couldNotConnectServer",
+        "text": "Could not connect to server."
+    },
+    {
+        "id": "del_cookiePolicyPrev",
+        "text": "This game uses cookies to improve user experience and to manage advertising. Please confirm that you accept our"
+    },
+    {
+        "id": "deviceBestGameExperience",
+        "text": "For the best game experience, please update your operating system."
+    },
+    {
+        "id": "deviceBrowserUpdateMust",
+        "text": "You need to update your browser to play the game."
+    },
+    {
+        "id": "deviceNotSupported",
+        "text": "Your device is not supported."
+    },
+    {
+        "id": "deviceOptimizedFor",
+        "text": "Optimized for {0} on {1} {2}"
+    },
+    {
+        "id": "deviceUpdateBrowser",
+        "text": "For the best game experience, please update your browser."
+    },
+    {
+        "id": "deviceUpdateOS",
+        "text": "You need to update your operating system to play the game."
+    },
+    {
+        "id": "deviceUseBrowser",
+        "text": "You need to use {0} to play the game."
+    },
+    {
+        "id": "dontShowNextTime",
+        "text": "Don\u0027t show next time"
+    },
+    {
+        "id": "epicSuperMegaWinUC",
+        "text": "EPIC SUPER MEGA WIN!"
+    },
+    {
+        "id": "explanationBetWaysPartTwo",
+        "text": "Only the longest matching combination per symbol is paid."
+    },
+    {
+        "id": "freeRoundsCompleteDialogText",
+        "text": "Free rounds finished. Future rounds use your account money. Good luck!"
+    },
+    {
+        "id": "freeRoundsInitiatedDialogText",
+        "text": "Congratulations! You have {0} free rounds. Good luck!"
+    },
+    {
+        "id": "FreeRoundsLeftwithColonVar",
+        "text": "Free rounds: {0}"
+    },
+    {
+        "id": "FreeSpinMultUC",
+        "text": "\u003cspan class=\u0027NetEnt_FreeSpinMultUC\u0027\u003e{0}\u003c/span\u003e FREE SPINS"
+    },
+    {
+        "id": "freespins",
+        "text": "Free Spins"
+    },
+    {
+        "id": "FreeSpinsFeatureUC",
+        "text": "FREE SPINS"
+    },
+    {
+        "id": "FreeSpinsFeatureUCAsianMarket",
+        "text": "FREE SPINS"
+    },
+    {
+        "id": "FreeSpinSingleUC",
+        "text": "\u003cspan class=\u0027NetEnt_FreeSpinSingleUC\u0027\u003e{0}\u003c/span\u003e FREE SPIN"
+    },
+    {
+        "id": "freeSpinsLeftUC",
+        "text": "FREE SPINS LEFT:"
+    },
+    {
+        "id": "freeSpinsLeftVarUC",
+        "text": "FREE SPINS LEFT: {0}"
+    },
+    {
+        "id": "freeSpinsUC",
+        "text": "FREE SPINS"
+    },
+    {
+        "id": "FreeSpinUC",
+        "text": "FREE SPIN"
+    },
+    {
+        "id": "gameHistoryDisplayDelay",
+        "text": "Note: The game history might be displayed with a delay."
+    },
+    {
+        "id": "gameHistoryNotePUI",
+        "text": "Note: The game logs will always display coin rather than cash value, regardless of the mode selected before play. A reminder that a win in cash equals a win in coins multiplied by the coin value."
+    },
+    {
+        "id": "gameNotLoaded",
+        "text": "The game could not be loaded."
+    },
+    {
+        "id": "gameOptimisedFor",
+        "text": "The game is optimized for {0} on {1}."
+    },
+    {
+        "id": "gameOptimisedVersion",
+        "text": "The game is optimized for: {0}"
+    },
+    {
+        "id": "gameWalletMssgExpired",
+        "text": "Sorry. Your {0} bonus has expired and is no longer available."
+    },
+    {
+        "id": "gameWalletMssgExpired_header",
+        "text": "Bonus Expired"
+    },
+    {
+        "id": "gameWalletMssgForfeited",
+        "text": "Sorry. Your {0} bonus has been forfeited."
+    },
+    {
+        "id": "gameWalletMssgForfeited_header",
+        "text": "Bonus Forfeited"
+    },
+    {
+        "id": "gameWalletMssgWagered",
+        "text": "Congratulations! Your {0} bonus has become credit. To use it, log in again."
+    },
+    {
+        "id": "gameWalletMssgWagered_header",
+        "text": "Bonus Converted"
+    },
+    {
+        "id": "greaterCDB",
+        "text": "Amount must be greater than the bet amount."
+    },
+    {
+        "id": "highWinSym",
+        "text": "HIGH WIN SYMBOLS"
+    },
+    {
+        "id": "iagree",
+        "text": "I agree"
+    },
+    {
+        "id": "ifCashDecreasesBy",
+        "text": "If cash decreases by"
+    },
+    {
+        "id": "ifCashIncreasesBy",
+        "text": "If cash increases by"
+    },
+    {
+        "id": "ifFreeSpinsIsStarted",
+        "text": "If Free Spins is won"
+    },
+    {
+        "id": "ifWinExeeds",
+        "text": "If single win exceeds"
+    },
+    {
+        "id": "loadingTakesLonger",
+        "text": "Loading the game is taking longer than usual."
+    },
+    {
+        "id": "lowWinSym",
+        "text": "LOW WIN SYMBOLS"
+    },
+    {
+        "id": "machinetext_winVar",
+        "text": "WIN: \u003cspan class=\u0027NetEnt_machinetext_winVar\u0027\u003e{0}\u003c/span\u003e"
+    },
+    {
+        "id": "mandatoryField",
+        "text": "Mandatory Field"
+    },
+    {
+        "id": "maxAdditionalFSduringFS",
+        "text": "The maximum number of additional Free Spins won during Free Spins is"
+    },
+    {
+        "id": "mediumWinSym",
+        "text": "MEDIUM WIN SYMBOLS"
+    },
+    {
+        "id": "messagecaption",
+        "text": "Message"
+    },
+    {
+        "id": "MGautoplayCancelled",
+        "text": "Autoplay Cancelled"
+    },
+    {
+        "id": "MGbetSettings",
+        "text": "Bet Settings"
+    },
+    {
+        "id": "MGcontinueYesNo",
+        "text": "Do you want to continue?"
+    },
+    {
+        "id": "MGdeviceNoSupport",
+        "text": "Unfortunately, this device is not supported."
+    },
+    {
+        "id": "MGdownloadSounds",
+        "text": "Turn sounds on?"
+    },
+    {
+        "id": "MGminOSReq",
+        "text": "Minimum requirement is:"
+    },
+    {
+        "id": "MGnoBrowserSupport",
+        "text": "Unfortunately, this browser is not supported."
+    },
+    {
+        "id": "MGnoOSSupport",
+        "text": "Unfortunately, this Operating System is not supported."
+    },
+    {
+        "id": "MGsoundsNo",
+        "text": "Sounds off"
+    },
+    {
+        "id": "MGsoundsOn",
+        "text": "Sounds on"
+    },
+    {
+        "id": "MGuseDefaultBrowser",
+        "text": "Use the default browser for the device or upgrade your system."
+    },
+    {
+        "id": "nothanks",
+        "text": "No, Thanks"
+    },
+    {
+        "id": "notSupportedBrowser",
+        "text": "Your browser is not supported."
+    },
+    {
+        "id": "numberOfRounds",
+        "text": "Number of {0}"
+    },
+    {
+        "id": "OBfreeRoundsGamePanel",
+        "text": "Total Paid: {0}"
+    },
+    {
+        "id": "OBOCTTotalWinwithColonVar",
+        "text": "Total paid: {0}"
+    },
+    {
+        "id": "OBperformanceNotification",
+        "text": "To increase performance, lower the graphics quality in the game options menu."
+    },
+    {
+        "id": "OBTotalWinwithColonVar",
+        "text": "Total paid: {0}"
+    },
+    {
+        "id": "OCT11",
+        "text": "You have reached your play limit. Welcome back later!"
+    },
+    {
+        "id": "OCTaccountUnavailable",
+        "text": "Account Unavailable"
+    },
+    {
+        "id": "OCTadditonalFreeSpinsWon",
+        "text": "You won {0} additional Free Spins"
+    },
+    {
+        "id": "OCTadvancedSettings",
+        "text": "Advanced settings"
+    },
+    {
+        "id": "OCTambience",
+        "text": "Ambience sound"
+    },
+    {
+        "id": "OCTaudio",
+        "text": "Audio"
+    },
+    {
+        "id": "OCTautoplayButton",
+        "text": "AUTOPLAY"
+    },
+    {
+        "id": "OCTautoplayPanelLabel",
+        "text": "Autoplay"
+    },
+    {
+        "id": "OCTautoplayPanelStartText",
+        "text": "Select to start"
+    },
+    {
+        "id": "OCTautoplayStopText",
+        "text": "STOP"
+    },
+    {
+        "id": "OCTautoSpins",
+        "text": "spins"
+    },
+    {
+        "id": "OCTbalance",
+        "text": "Balance"
+    },
+    {
+        "id": "OCTbet",
+        "text": "BET"
+    },
+    {
+        "id": "OCTbetColonVar",
+        "text": "Bet: {0}"
+    },
+    {
+        "id": "OCTbetInCash",
+        "text": "Bet in cash"
+    },
+    {
+        "id": "OCTbetInCoins",
+        "text": "Bet in coins"
+    },
+    {
+        "id": "OCTbetlevel",
+        "text": "Bet level"
+    },
+    {
+        "id": "OCTbetLineWinsLeftToRightOnly",
+        "text": "Bet line wins pay if in succession from the leftmost reel to the rightmost reel."
+    },
+    {
+        "id": "OCTbetSettingsCaps",
+        "text": "BET SETTINGS"
+    },
+    {
+        "id": "OCTbigWin",
+        "text": "BIG WIN!"
+    },
+    {
+        "id": "OCTbtnNo",
+        "text": "No"
+    },
+    {
+        "id": "OCTbtnOK",
+        "text": "OK"
+    },
+    {
+        "id": "OCTbtnYes",
+        "text": "Yes"
+    },
+    {
+        "id": "OCTbutton_CONTINUE",
+        "text": "CONTINUE"
+    },
+    {
+        "id": "OCTbutton_paytableUC",
+        "text": "PAYTABLE"
+    },
+    {
+        "id": "OCTcash",
+        "text": "Cash"
+    },
+    {
+        "id": "OCTcashColon",
+        "text": "Cash:"
+    },
+    {
+        "id": "OCTcashColonVar",
+        "text": "Cash: {0}"
+    },
+    {
+        "id": "OCTcasino_btn",
+        "text": "Home"
+    },
+    {
+        "id": "OCTCheckEndButton",
+        "text": "End"
+    },
+    {
+        "id": "OCTchooseAutoplayRounds",
+        "text": "Choose number of rounds"
+    },
+    {
+        "id": "OCTchooseAutoplayStopConditions",
+        "text": "Choose stop conditions"
+    },
+    {
+        "id": "OCTclose_btn",
+        "text": "Close"
+    },
+    {
+        "id": "OCTcoins",
+        "text": "COINS"
+    },
+    {
+        "id": "OCTcoinsColonVar",
+        "text": "Coins: {0}"
+    },
+    {
+        "id": "OCTcoinsWonColon",
+        "text": "Coins won:"
+    },
+    {
+        "id": "OCTcoinValue",
+        "text": "Coin value"
+    },
+    {
+        "id": "OCTcongratsLC",
+        "text": "Congratulations!"
+    },
+    {
+        "id": "OCTcongratsUC",
+        "text": "CONGRATULATIONS!"
+    },
+    {
+        "id": "OCTconnectionLost",
+        "text": "Connection Lost"
+    },
+    {
+        "id": "OCTconnectionQualityPoor",
+        "text": "Connection: Poor"
+    },
+    {
+        "id": "OCTContinue",
+        "text": "Continue"
+    },
+    {
+        "id": "OCTcontinuePlaying",
+        "text": "Continue playing where you left off."
+    },
+    {
+        "id": "OCTcontinueYesNo",
+        "text": "Do you want to continue?"
+    },
+    {
+        "id": "OCTdeposit",
+        "text": "Please deposit more money or reduce your bet."
+    },
+    {
+        "id": "OCTdeposit_btn",
+        "text": "Deposit"
+    },
+    {
+        "id": "OCTdepositPlay",
+        "text": "Please deposit more money to continue playing."
+    },
+    {
+        "id": "OCTerror",
+        "text": "Technical Error"
+    },
+    {
+        "id": "OCTextraInfo",
+        "text": "For more information, see the Game Rules."
+    },
+    {
+        "id": "OCTfreerounds",
+        "text": "Free Rounds have expired"
+    },
+    {
+        "id": "OCTfreeRoundsExtraTitle",
+        "text": "Extra Free Rounds"
+    },
+    {
+        "id": "OCTfreeRoundsExtraWon",
+        "text": "Probably not the result you were hoping for. Have another {0} Free Rounds on us."
+    },
+    {
+        "id": "OCTfreeRoundsFinished",
+        "text": "Free Rounds Finished"
+    },
+    {
+        "id": "OCTfreeRoundsFinishedRev",
+        "text": "Free Rounds Finished"
+    },
+    {
+        "id": "OCTFreeRoundsLeftwithColon",
+        "text": "Free rounds: {0}"
+    },
+    {
+        "id": "OCTfreeRoundsTitle",
+        "text": "Free Rounds"
+    },
+    {
+        "id": "OCTfreeSpinsLeftColonVar",
+        "text": "Free Spins left: {0}"
+    },
+    {
+        "id": "OCTfreeSpinsUC",
+        "text": "FREE SPINS"
+    },
+    {
+        "id": "OCTgameDisconnect",
+        "text": "Note: All game features and bet settings, including coin values and bet level  have been restored from the previous round."
+    },
+    {
+        "id": "OCTgameHistory",
+        "text": "Game history"
+    },
+    {
+        "id": "OCTgameHistoryHeadingUC",
+        "text": "GAME HISTORY"
+    },
+    {
+        "id": "OCTgameHistoryNewTab",
+        "text": "The game history will open in a new tab."
+    },
+    {
+        "id": "OCTgameMode",
+        "text": "Game Mode"
+    },
+    {
+        "id": "OCTgameRulesNewTab",
+        "text": "The game rules will open in a new tab."
+    },
+    {
+        "id": "OCTgameRulesUC",
+        "text": "GAME RULES"
+    },
+    {
+        "id": "OCTgameSound",
+        "text": "Game sounds"
+    },
+    {
+        "id": "OCTgameUnavailable",
+        "text": "Game Unavailable"
+    },
+    {
+        "id": "OCThaveFreeRounds",
+        "text": "You have {0} free rounds!"
+    },
+    {
+        "id": "OCThighQuality",
+        "text": "High"
+    },
+    {
+        "id": "OCThistoryNotAvailable",
+        "text": "The game history is available only when playing for money."
+    },
+    {
+        "id": "OCTifCashDecreasesBy",
+        "text": "If cash decreases by"
+    },
+    {
+        "id": "OCTifCashIncreasesBy",
+        "text": "If cash increases by"
+    },
+    {
+        "id": "OCTifFBonusIsStarted",
+        "text": "If Bonus Game is won"
+    },
+    {
+        "id": "OCTifFreeSpinsIsStarted",
+        "text": "If Free Spins is won"
+    },
+    {
+        "id": "OCTifWinExeeds",
+        "text": "If single win exceeds"
+    },
+    {
+        "id": "OCTintroGameSetting",
+        "text": "Intro movie"
+    },
+    {
+        "id": "OCTintroScreeGameSetting",
+        "text": "Intro screen"
+    },
+    {
+        "id": "OCTkeyBoardLabel",
+        "text": "Keyboard shortcuts"
+    },
+    {
+        "id": "OCTlandscapeMode",
+        "text": "Please turn your device to landscape mode."
+    },
+    {
+        "id": "OCTleftHandMode",
+        "text": "Left-hand mode"
+    },
+    {
+        "id": "OCTlevel",
+        "text": "LEVEL"
+    },
+    {
+        "id": "OCTloading",
+        "text": "Loading..."
+    },
+    {
+        "id": "OCTloadingText",
+        "text": "Loading"
+    },
+    {
+        "id": "OCTlogin_btn",
+        "text": "Login"
+    },
+    {
+        "id": "OCTlossLimit",
+        "text": "Loss Limit"
+    },
+    {
+        "id": "OCTlossLimitInfo",
+        "text": "Confirm or set the bet amount before setting the **If cash decreases by** limit."
+    },
+    {
+        "id": "OCTlossLimitInfoTouch",
+        "text": "Set the bet amount before setting the limit, to stop autoplay."
+    },
+    {
+        "id": "OCTlossLimitTouch",
+        "text": "Enter if cash decreases by amount"
+    },
+    {
+        "id": "OCTlossLimitWarning",
+        "text": "Please enter the **If cash decreases by** amount."
+    },
+    {
+        "id": "OCTlostConnectInactivity",
+        "text": "The game has lost connection due to inactivity."
+    },
+    {
+        "id": "OCTlowQuality",
+        "text": "Low"
+    },
+    {
+        "id": "OCTmachinetext_bet",
+        "text": "BET"
+    },
+    {
+        "id": "OCTmachinetext_coins",
+        "text": "COINS"
+    },
+    {
+        "id": "OCTmachinetext_coinvalue",
+        "text": "COIN VALUE"
+    },
+    {
+        "id": "OCTmachinetext_win",
+        "text": "WIN"
+    },
+    {
+        "id": "OCTmachinetext_winVar",
+        "text": "WIN: {0}"
+    },
+    {
+        "id": "OCTmaxbetbutton",
+        "text": "MAX BET"
+    },
+    {
+        "id": "OCTmaxbetbuttonTwoLine",
+        "text": "MAX\u003cbr\u003eBET"
+    },
+    {
+        "id": "OCTmediumQuality",
+        "text": "Medium"
+    },
+    {
+        "id": "OCTmegaWin",
+        "text": "MEGA WIN!"
+    },
+    {
+        "id": "OCTmessagecaption",
+        "text": "Message"
+    },
+    {
+        "id": "OCTnewHistoryWindow",
+        "text": "The game history will open on a new page. Close the page to return to the game."
+    },
+    {
+        "id": "OCTnumberSpins",
+        "text": "Number of spins"
+    },
+    {
+        "id": "OCTonAnyWin",
+        "text": "On any win"
+    },
+    {
+        "id": "OCTopen",
+        "text": "Open"
+    },
+    {
+        "id": "OCToutOfMoney",
+        "text": "Out of Money"
+    },
+    {
+        "id": "OCTpaytable",
+        "text": "Paytable"
+    },
+    {
+        "id": "OCTpaytableHighest",
+        "text": "Only the highest win per bet line is paid."
+    },
+    {
+        "id": "OCTpaytableRev",
+        "text": "Paytable"
+    },
+    {
+        "id": "OCTplayingForFun",
+        "text": "PLAYING FOR FUN"
+    },
+    {
+        "id": "OCTplayLimit",
+        "text": "Play Limit"
+    },
+    {
+        "id": "OCTqualityHeading",
+        "text": "Graphics quality"
+    },
+    {
+        "id": "OCTquickSpin",
+        "text": "Quick Spin"
+    },
+    {
+        "id": "OCTquickSpinGameSetting",
+        "text": "Quick spin"
+    },
+    {
+        "id": "OCTRCcheckReminder",
+        "text": "A Gentle Reminder"
+    },
+    {
+        "id": "OCTRCheckPlayingLost",
+        "text": "You have been playing for {0} hours and lost {1}."
+    },
+    {
+        "id": "OCTRCheckPlayingWon",
+        "text": "You have been playing for {0} hours and won {1}."
+    },
+    {
+        "id": "OCTreduce",
+        "text": "Please reduce your bet to continue playing."
+    },
+    {
+        "id": "OCTreduceBet_btn",
+        "text": "Reduce bet"
+    },
+    {
+        "id": "OCTreload",
+        "text": "Please reload the game."
+    },
+    {
+        "id": "OCTreload_btn",
+        "text": "Reload"
+    },
+    {
+        "id": "OCTrequired",
+        "text": "Required"
+    },
+    {
+        "id": "OCTreset",
+        "text": "Reset"
+    },
+    {
+        "id": "OCTrestoredGameHeader",
+        "text": "Game Restored"
+    },
+    {
+        "id": "OCTreturnCasino",
+        "text": "Please restart the game."
+    },
+    {
+        "id": "OCTreturnToLobby",
+        "text": "Please return to lobby."
+    },
+    {
+        "id": "OCTround",
+        "text": "ROUND"
+    },
+    {
+        "id": "OCTroundMult",
+        "text": "ROUNDS"
+    },
+    {
+        "id": "OCTroundsLeft",
+        "text": "Free Rounds"
+    },
+    {
+        "id": "OCTroundsUseAcctMoney",
+        "text": "Future rounds use your account money. Good luck!"
+    },
+    {
+        "id": "OCTsessionTimeOut",
+        "text": "Session Time Out"
+    },
+    {
+        "id": "OCTskipIntro",
+        "text": "Skip intro"
+    },
+    {
+        "id": "OCTslidePanelLabel",
+        "text": "Game Settings"
+    },
+    {
+        "id": "OCTslowConnection",
+        "text": "Your current internet connection is slow."
+    },
+    {
+        "id": "OCTsound",
+        "text": "Sound effects"
+    },
+    {
+        "id": "OCTsoundSettingsCaps",
+        "text": "SOUND SETTINGS"
+    },
+    {
+        "id": "OCTsoundsNo",
+        "text": "Sounds off"
+    },
+    {
+        "id": "OCTsoundsOn",
+        "text": "Sounds on"
+    },
+    {
+        "id": "OCTspaceSpin",
+        "text": "Spacebar to spin"
+    },
+    {
+        "id": "OCTspinSettingsCaps",
+        "text": "SPIN SETTINGS"
+    },
+    {
+        "id": "OCTspinsLeftText",
+        "text": "Number of {0} remaining"
+    },
+    {
+        "id": "OCTstartFreeSpins",
+        "text": "START FREE SPINS"
+    },
+    {
+        "id": "OCTstopAutoPlay",
+        "text": "Stop Autoplay"
+    },
+    {
+        "id": "OCTstopAutoPlayColon",
+        "text": "Stop Autoplay:"
+    },
+    {
+        "id": "OCTstopIfCashDecreasesBy",
+        "text": "Stop if cash decreases by"
+    },
+    {
+        "id": "OCTstopIfCashIncreasesBy",
+        "text": "Stop if cash increases by"
+    },
+    {
+        "id": "OCTstopIfFreeSpins",
+        "text": "Stop if Free Spins is won"
+    },
+    {
+        "id": "OCTstopIfWinExeeds",
+        "text": "Stop if single win exceeds"
+    },
+    {
+        "id": "OCTsuperMegaWin",
+        "text": "SUPER MEGA WIN!"
+    },
+    {
+        "id": "OCTsymbolPayout",
+        "text": "Symbol Payout Values"
+    },
+    {
+        "id": "OCTtotalbet",
+        "text": "Bet"
+    },
+    {
+        "id": "OCTtotalWinColonVar",
+        "text": "Total win: {0}"
+    },
+    {
+        "id": "OCTTotalWinSingleUC",
+        "text": "TOTAL WIN"
+    },
+    {
+        "id": "OCTtotalWinUCnoVar",
+        "text": "TOTAL WIN:"
+    },
+    {
+        "id": "OCTtotalWinWithColon",
+        "text": "Total win:"
+    },
+    {
+        "id": "OCTTotalWinwithColonUC",
+        "text": "TOTAL WIN: {0}"
+    },
+    {
+        "id": "OCTvarRetriggerFSNoSpan",
+        "text": "+{0} Free Spins"
+    },
+    {
+        "id": "OCTvoidAllPays",
+        "text": "Malfunction voids all pays and plays."
+    },
+    {
+        "id": "OCTwin",
+        "text": "Win"
+    },
+    {
+        "id": "OCTwinColonUC",
+        "text": "WIN:"
+    },
+    {
+        "id": "OCTwinColonVar",
+        "text": "Win: {0}"
+    },
+    {
+        "id": "OCTwinningBetLinesHeading",
+        "text": "Winning Bet Lines"
+    },
+    {
+        "id": "OCTwinUpTo",
+        "text": "Win up to {0} coins"
+    },
+    {
+        "id": "OCTyouPlayingFun",
+        "text": "You are playing for fun"
+    },
+    {
+        "id": "OCTyouWinUCNoExclamation",
+        "text": "YOU WIN"
+    },
+    {
+        "id": "OCTyouWonCoins",
+        "text": "You won {0} coins"
+    },
+    {
+        "id": "ok_btn",
+        "text": "OK"
+    },
+    {
+        "id": "onAnyWin",
+        "text": "On any win"
+    },
+    {
+        "id": "onFeatureWin",
+        "text": "On feature win"
+    },
+    {
+        "id": "operatingSystemNoSupport",
+        "text": "Your Operating System is not supported."
+    },
+    {
+        "id": "optimisedForVersion",
+        "text": "This game is optimized for: {0}"
+    },
+    {
+        "id": "outroFreeSpinsNoWin",
+        "text": "Free Spins has ended, you will now return to the main game."
+    },
+    {
+        "id": "paytableInfoBetLevel1",
+        "text": "The coin payout values are based on bet level 1."
+    },
+    {
+        "id": "performanceNotification",
+        "text": "To increase performance, lower the graphics quality using the game settings."
+    },
+    {
+        "id": "RCheckDay",
+        "text": "day"
+    },
+    {
+        "id": "RCheckDays",
+        "text": "days"
+    },
+    {
+        "id": "RCheckEndButton",
+        "text": "End"
+    },
+    {
+        "id": "RCheckEndCont",
+        "text": "Would you like to end or continue play?"
+    },
+    {
+        "id": "RCheckHour",
+        "text": "hour"
+    },
+    {
+        "id": "RCheckHours",
+        "text": "hours"
+    },
+    {
+        "id": "RCheckLost",
+        "text": "During this time you have lost"
+    },
+    {
+        "id": "RCheckMinute",
+        "text": "minute"
+    },
+    {
+        "id": "RCheckMinutes",
+        "text": "minutes"
+    },
+    {
+        "id": "RCheckMonth",
+        "text": "month"
+    },
+    {
+        "id": "RCheckMonths",
+        "text": "months"
+    },
+    {
+        "id": "RCheckPlaying",
+        "text": "You have been playing for {0} {1}. {2} {3}. {4}"
+    },
+    {
+        "id": "RCheckPlayingFor",
+        "text": "You have been playing for"
+    },
+    {
+        "id": "RCheckReminder",
+        "text": "A GENTLE REMINDER"
+    },
+    {
+        "id": "RCheckSecond",
+        "text": "second"
+    },
+    {
+        "id": "RCheckSeconds",
+        "text": "seconds"
+    },
+    {
+        "id": "RCheckWeek",
+        "text": "week"
+    },
+    {
+        "id": "RCheckWeeks",
+        "text": "weeks"
+    },
+    {
+        "id": "RCheckWon",
+        "text": "During this time you have won"
+    },
+    {
+        "id": "RCheckYear",
+        "text": "year"
+    },
+    {
+        "id": "RCheckYears",
+        "text": "years"
+    },
+    {
+        "id": "reset",
+        "text": "Reset"
+    },
+    {
+        "id": "resetToClearPlayUIChosen",
+        "text": "Click \u003cb\u003eReset\u003c/b\u003e to clear all chosen Autoplay stop conditions."
+    },
+    {
+        "id": "resetToClearTouchPlayUIChosen",
+        "text": "Tap \u003cb\u003eReset\u003c/b\u003e to clear all chosen Autoplay stop conditions."
+    },
+    {
+        "id": "roundsLeft",
+        "text": "Free rounds"
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsMultiplierPUI",
+        "text": "A bet line win is equal to the value shown in the Paytable multiplied by any applicable multipliers."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoMultiplierNoBoldPUI",
+        "text": "A bet line win is equal to the value shown in the Paytable."
+    },
+    {
+        "id": "scatterRespinHead",
+        "text": "Second Chance Scatter™ Re-Spin"
+    },
+    {
+        "id": "secondchancefs1",
+        "text": "Symbols appear in stacks in both the main game (randomly) and Free Spins (always)."
+    },
+    {
+        "id": "secondchancefs2",
+        "text": "The reels the Wild or Scatter symbols landed on to activate Free Spins, become hot."
+    },
+    {
+        "id": "secondchancefs3",
+        "text": "Serpent Stacks landing on hot reels expand to cover the entire reel."
+    },
+    {
+        "id": "secondchancewild1",
+        "text": "There are 4 types of Wild symbols: a single Serpent Wild, 2 expanding Serpent Wilds, and Serpent Stacks."
+    },
+    {
+        "id": "secondchancewild2",
+        "text": "The single Serpent Wild appears on the first or the third row only."
+    },
+    {
+        "id": "secondchancewild3",
+        "text": "The expanding Serpent Wild symbols expand either up or down, and may or may not cover the entire reel."
+    },
+    {
+        "id": "secondchancewild4",
+        "text": "The Serpent Stacks appear only in Free Spins on hot reels and will cover the entire reel."
+    },
+    {
+        "id": "secondchancewild5",
+        "text": "All the Wild symbols, except for the single Serpent Wild, substitute for all symbols."
+    },
+    {
+        "id": "selectorCurrentLanguage",
+        "text": "The text on the selector is displayed in the current game language."
+    },
+    {
+        "id": "SetBetValuePUI2NoBL",
+        "text": "Click to set the bet value or the coin value."
+    },
+    {
+        "id": "SetBetValuePUI2NoBLTouch",
+        "text": "Tap to set the bet value or the coin value."
+    },
+    {
+        "id": "setCoinValue",
+        "text": "When playing with coins, use the Coin Value selector to set the bet value."
+    },
+    {
+        "id": "setting_isCash",
+        "text": "Show bet in cash"
+    },
+    {
+        "id": "spinsLeftText",
+        "text": "Number of {0} remaining"
+    },
+    {
+        "id": "stackedFreeSpinsReactivate",
+        "text": "Additional stacked Free Spins can be won during stacked Free Spins."
+    },
+    {
+        "id": "startGameUC",
+        "text": "START GAME"
+    },
+    {
+        "id": "stopAutoPlay",
+        "text": "Stop autoplay"
+    },
+    {
+        "id": "stopIfFeatureSpins",
+        "text": "Stop if Feature Spin is won"
+    },
+    {
+        "id": "stopWhenJackpotIsWon",
+        "text": "Stop if jackpot is won"
+    },
+    {
+        "id": "symbolPayoutUC",
+        "text": "SYMBOL PAYOUT VALUES"
+    },
+    {
+        "id": "symInStacksFS",
+        "text": "IN FREE SPINS, SYMBOLS LAND IN STACKS"
+    },
+    {
+        "id": "tapViewSettingsMenu",
+        "text": "Tap to view the game settings menu."
+    },
+    {
+        "id": "termNudgeKoi",
+        "text": "Nudge"
+    },
+    {
+        "id": "toggleCashCoinsPUI",
+        "text": "To toggle between cash and coins, click on either \u003cb\u003eBET\u003c/b\u003e, \u003cb\u003eWIN\u003c/b\u003e or \u003cb\u003eBALANCE\u003c/b\u003e."
+    },
+    {
+        "id": "toggleCashCoinsPUIGameRules",
+        "text": "To toggle between cash and coins, click on either \u003cb\u003eBET\u003c/b\u003e, \u003cb\u003eWIN\u003c/b\u003e or \u003cb\u003eBALANCE\u003c/b\u003e."
+    },
+    {
+        "id": "totalwin",
+        "text": "Total win"
+    },
+    {
+        "id": "TotalWinwithColonUC",
+        "text": "TOTAL WIN: \u003cspan class=\u0027NetEnt_TotalWinwithColonUC\u0027\u003e{0}\u003c/span\u003e"
+    },
+    {
+        "id": "TotalWinwithColonVar",
+        "text": "Total win: {0}"
+    },
+    {
+        "id": "tutorial",
+        "text": "Tutorial"
+    },
+    {
+        "id": "updateBrowserQuestion",
+        "text": "Do you wish to update?"
+    },
+    {
+        "id": "updateBrowserReq",
+        "text": "You need to update your browser to be able to play. Minimum requirement: {0}"
+    },
+    {
+        "id": "upgradeDevice",
+        "text": "Please upgrade your device."
+    },
+    {
+        "id": "upgradeIn",
+        "text": "Please upgrade {0} in {1}."
+    },
+    {
+        "id": "wild3fs10",
+        "text": "Wild/Scatter symbols = 10 Free Spins"
+    },
+    {
+        "id": "wild4fs15",
+        "text": "Wild/Scatter symbols = 15 Free Spins"
+    },
+    {
+        "id": "wild5fs20",
+        "text": "Wild/Scatter symbols = 20 Free Spins"
+    },
+    {
+        "id": "wildHeadingLC",
+        "text": "Wild"
+    },
+    {
+        "id": "wildSlachScatterSymbols",
+        "text": "Wild/Scatter symbols"
+    },
+    {
+        "id": "wildSymbolsHeader",
+        "text": "Wild Symbols"
+    },
+    {
+        "id": "wildSymbolsHeadUC",
+        "text": "WILD SYMBOLS"
+    },
+    {
+        "id": "winBeforeSCSrespin",
+        "text": "Any wins from the initial spin are awarded before the Second Chance Scatter™ Re-Spin."
+    },
+    {
+        "id": "winColonNoVar",
+        "text": "Win:"
+    },
+    {
+        "id": "winningBetLinesHeadUC",
+        "text": "WINNING BET LINES"
+    },
+    {
+        "id": "WinUpToCoinsUC",
+        "text": "WIN UP TO {0} COINS"
+    },
+    {
+        "id": "WinUpTodup",
+        "text": "WIN UP TO"
+    },
+    {
+        "id": "youwonUC",
+        "text": "YOU WON"
+    },
+    {
+        "id": "youWonUCNoVar",
+        "text": "YOU WON:"
+    },
+    {
+        "id": "betValuePUI",
+        "text": "Bet value is set with the arrows next to the \u003cb\u003eCOIN VALUE\u003c/b\u003e section."
+    },
+    {
+        "id": "RTcoinsDisplayValuesNewPUIBalance",
+        "text": "\u003cb\u003eBALANCE\u003c/b\u003e displays the amount of cash or coins available to bet."
+    },
+    {
+        "id": "upDownChangeCoinPUI",
+        "text": "Click up and down arrows to change coin value."
+    },
+    {
+        "id": "RTCalcBetWayCashNoMultiplier",
+        "text": "A bet way win in cash is equal to the value shown in the Paytable."
+    },
+    {
+        "id": "0",
+        "text": "The game is currently not available. Try again later."
+    },
+    {
+        "id": "10",
+        "text": "There is not enough money in your account."
+    },
+    {
+        "id": "100",
+        "text": "There is not enough money in your account."
+    },
+    {
+        "id": "101",
+        "text": "There is not enough money on your Casino account."
+    },
+    {
+        "id": "102",
+        "text": "Your autoplay has been cancelled."
+    },
+    {
+        "id": "11",
+        "text": "You have reached your play limit. Welcome back later."
+    },
+    {
+        "id": "110",
+        "text": "The game cannot be started. Try again later."
+    },
+    {
+        "id": "12",
+        "text": "The current bet could not be made due to the expiry of a bonus."
+    },
+    {
+        "id": "120",
+        "text": "This option is only available after you have finished the game round."
+    },
+    {
+        "id": "121",
+        "text": "To start autoplay you must place a bet."
+    },
+    {
+        "id": "122",
+        "text": "The race movie could not be played."
+    },
+    {
+        "id": "13",
+        "text": "Your bet has exceeded the maximum bet limit set for this game."
+    },
+    {
+        "id": "14",
+        "text": "Please reload to refresh balance in game."
+    },
+    {
+        "id": "15",
+        "text": "There is not enough money in your account. Please add more money or reduce your bet."
+    },
+    {
+        "id": "16",
+        "text": "Sorry. Free Rounds offer is already used."
+    },
+    {
+        "id": "20",
+        "text": "Your session has timed out. Restart the game."
+    },
+    {
+        "id": "25",
+        "text": "All gaming has been disabled."
+    },
+    {
+        "id": "40",
+        "text": "This tournament has not started yet, please try again later."
+    },
+    {
+        "id": "50",
+        "text": "This tournament has ended."
+    },
+    {
+        "id": "51",
+        "text": "There is not enough money in your account."
+    },
+    {
+        "id": "53",
+        "text": "The game is currently not available. Try again later."
+    },
+    {
+        "id": "56",
+        "text": "The game is currently not available. Try again later."
+    },
+    {
+        "id": "58",
+        "text": "The game is currently not available. Try again later."
+    },
+    {
+        "id": "59",
+        "text": "Client already logged in. Try again later."
+    },
+    {
+        "id": "60",
+        "text": "This tournament has ended, the last played round will not be part of the tournament statistics."
+    },
+    {
+        "id": "70",
+        "text": "We cannot reach your account at the moment. Please try again later."
+    },
+    {
+        "id": "addValue",
+        "text": "Add Value"
+    },
+    {
+        "id": "autoRounds",
+        "text": "rounds"
+    },
+    {
+        "id": "betExceedCDB",
+        "text": "Your bet has exceeded the if cash decreases by limit. Please increase the limit."
+    },
+    {
+        "id": "bettingModesNotAvailable",
+        "text": "\u003cb\u003eNote:\u003c/b\u003e Not all betting modes are available in all casinos."
+    },
+    {
+        "id": "betValuePUI2Cash",
+        "text": "When playing with cash, the bet value is set by clicking the Bet Settings button and selecting the bet."
+    },
+    {
+        "id": "betValuePUI2CashTouch",
+        "text": "When playing with cash, the bet value is set by tapping the Bet Settings button and selecting the bet."
+    },
+    {
+        "id": "betValuePUI2Coins",
+        "text": "When playing with coins, the bet value is set by clicking the Bet Settings button and selecting the coin value and the bet level."
+    },
+    {
+        "id": "betValuePUI2CoinsNoBL",
+        "text": "When playing with coins, the bet value is set by clicking the Bet Settings button and selecting the coin value."
+    },
+    {
+        "id": "betValuePUI2CoinsNoBLTouch",
+        "text": "When playing with coins, the bet value is set by tapping the Bet Settings button and selecting the coin value."
+    },
+    {
+        "id": "betValuePUI2CoinsTouch",
+        "text": "When playing with coins, the bet value is set by tapping the Bet Settings button and selecting the coin value and the bet level."
+    },
+    {
+        "id": "bonusAwardedCongrats",
+        "text": "Congratulations! You have been awarded {0} bonus."
+    },
+    {
+        "id": "bonusAwardedTitle",
+        "text": "Bonus Awarded"
+    },
+    {
+        "id": "browserVersionNotSupported",
+        "text": "Unfortunately, this browser version is not supported."
+    },
+    {
+        "id": "button_CONTINUE",
+        "text": "CONTINUE"
+    },
+    {
+        "id": "cashUC",
+        "text": "CASH"
+    },
+    {
+        "id": "close_btn",
+        "text": "Close"
+    },
+    {
+        "id": "Continue",
+        "text": "Continue"
+    },
+    {
+        "id": "cookiePolicy",
+        "text": "This game uses cookies for statistics and to improve user experience. Please confirm that you accept our"
+    },
+    {
+        "id": "cookiePolicyPart2",
+        "text": "cookie policy."
+    },
+    {
+        "id": "del_cookiePolicyPrev",
+        "text": "This game uses cookies to improve user experience and to manage advertising. Please confirm that you accept our"
+    },
+    {
+        "id": "deviceBestGameExperience",
+        "text": "For the best game experience, please update your operating system."
+    },
+    {
+        "id": "deviceBrowserUpdateMust",
+        "text": "You need to update your browser to play the game."
+    },
+    {
+        "id": "deviceOptimizedFor",
+        "text": "Optimized for {0} on {1} {2}"
+    },
+    {
+        "id": "deviceUpdateBrowser",
+        "text": "For the best game experience, please update your browser."
+    },
+    {
+        "id": "deviceUpdateOS",
+        "text": "You need to update your operating system to play the game."
+    },
+    {
+        "id": "deviceUseBrowser",
+        "text": "You need to use {0} to play the game."
+    },
+    {
+        "id": "freeRoundsCompleteDialogText",
+        "text": "Free rounds finished. Future rounds use your account money. Good luck!"
+    },
+    {
+        "id": "freeRoundsInitiatedDialogText",
+        "text": "Congratulations! You have {0} free rounds. Good luck!"
+    },
+    {
+        "id": "FreeRoundsLeftwithColonVar",
+        "text": "Free rounds: {0}"
+    },
+    {
+        "id": "gameWalletMssgExpired",
+        "text": "Sorry. Your {0} bonus has expired and is no longer available."
+    },
+    {
+        "id": "gameWalletMssgExpired_header",
+        "text": "Bonus Expired"
+    },
+    {
+        "id": "gameWalletMssgForfeited",
+        "text": "Sorry. Your {0} bonus has been forfeited."
+    },
+    {
+        "id": "gameWalletMssgForfeited_header",
+        "text": "Bonus Forfeited"
+    },
+    {
+        "id": "gameWalletMssgWagered",
+        "text": "Congratulations! Your {0} bonus has become credit. To use it, log in again."
+    },
+    {
+        "id": "gameWalletMssgWagered_header",
+        "text": "Bonus Converted"
+    },
+    {
+        "id": "greaterCDB",
+        "text": "Amount must be greater than the bet amount."
+    },
+    {
+        "id": "iagree",
+        "text": "I agree"
+    },
+    {
+        "id": "mandatoryField",
+        "text": "Mandatory Field"
+    },
+    {
+        "id": "messagecaption",
+        "text": "Message"
+    },
+    {
+        "id": "nothanks",
+        "text": "No, Thanks"
+    },
+    {
+        "id": "notSupportedBrowser",
+        "text": "Your browser is not supported."
+    },
+    {
+        "id": "numberOfRounds",
+        "text": "Number of {0}"
+    },
+    {
+        "id": "OBperformanceNotification",
+        "text": "To increase performance, lower the graphics quality in the game options menu."
+    },
+    {
+        "id": "OCTCheckEndButton",
+        "text": "End"
+    },
+    {
+        "id": "OCTcongratsUC",
+        "text": "CONGRATULATIONS!"
+    },
+    {
+        "id": "OCTconnectionQualityPoor",
+        "text": "Connection: Poor"
+    },
+    {
+        "id": "OCTfreeRoundsExtraTitle",
+        "text": "Extra Free Rounds"
+    },
+    {
+        "id": "OCTfreeRoundsExtraWon",
+        "text": "Probably not the result you were hoping for. Have another {0} Free Rounds on us."
+    },
+    {
+        "id": "OCTfreeRoundsFinishedRev",
+        "text": "Free Rounds Finished"
+    },
+    {
+        "id": "OCTgameClientVersion",
+        "text": "Game Client Version:"
+    },
+    {
+        "id": "OCTgameServerVersion",
+        "text": "Game Server Version:"
+    },
+    {
+        "id": "OCThaveFreeRounds",
+        "text": "You have {0} free rounds!"
+    },
+    {
+        "id": "OCTloadingTakesLonger",
+        "text": "Loading the game is taking longer than usual."
+    },
+    {
+        "id": "OCTlossLimit",
+        "text": "Loss Limit"
+    },
+    {
+        "id": "OCTlossLimitInfo",
+        "text": "Confirm or set the bet amount before setting the **If cash decreases by** limit."
+    },
+    {
+        "id": "OCTlossLimitInfoTouch",
+        "text": "Set the bet amount before setting the limit, to stop autoplay."
+    },
+    {
+        "id": "OCTlossLimitTouch",
+        "text": "Enter if cash decreases by amount"
+    },
+    {
+        "id": "OCTlossLimitWarning",
+        "text": "Please enter the **If cash decreases by** amount."
+    },
+    {
+        "id": "OCTlostConnectInactivity",
+        "text": "The game has lost connection due to inactivity."
+    },
+    {
+        "id": "OCTmaxBet",
+        "text": "The maximum bet is:"
+    },
+    {
+        "id": "OCTmessagecaption",
+        "text": "Message"
+    },
+    {
+        "id": "OCTminBet",
+        "text": "The minimum bet is:"
+    },
+    {
+        "id": "OCTonAnyWin",
+        "text": "On any win"
+    },
+    {
+        "id": "OCTroundsLeft",
+        "text": "Free Rounds"
+    },
+    {
+        "id": "OCTstopAutoPlayColon",
+        "text": "Stop Autoplay:"
+    },
+    {
+        "id": "OCTstopIfCashDecreasesBy",
+        "text": "Stop if cash decreases by"
+    },
+    {
+        "id": "OCTstopIfCashIncreasesBy",
+        "text": "Stop if cash increases by"
+    },
+    {
+        "id": "OCTstopIfWinExeeds",
+        "text": "Stop if single win exceeds"
+    },
+    {
+        "id": "OCTtotalWinColonVar",
+        "text": "Total win: {0}"
+    },
+    {
+        "id": "OCTTotalWinwithColonUC",
+        "text": "TOTAL WIN: {0}"
+    },
+    {
+        "id": "OCTWin",
+        "text": "WIN"
+    },
+    {
+        "id": "ok_btn",
+        "text": "OK"
+    },
+    {
+        "id": "performanceNotification",
+        "text": "To increase performance, lower the graphics quality using the game settings."
+    },
+    {
+        "id": "RCheckDay",
+        "text": "day"
+    },
+    {
+        "id": "RCheckDays",
+        "text": "days"
+    },
+    {
+        "id": "RCheckEndButton",
+        "text": "End"
+    },
+    {
+        "id": "RCheckEndCont",
+        "text": "Would you like to end or continue play?"
+    },
+    {
+        "id": "RCheckHour",
+        "text": "hour"
+    },
+    {
+        "id": "RCheckHours",
+        "text": "hours"
+    },
+    {
+        "id": "RCheckLost",
+        "text": "During this time you have lost"
+    },
+    {
+        "id": "RCheckMinute",
+        "text": "minute"
+    },
+    {
+        "id": "RCheckMinutes",
+        "text": "minutes"
+    },
+    {
+        "id": "RCheckMonth",
+        "text": "month"
+    },
+    {
+        "id": "RCheckPlaying",
+        "text": "You have been playing for {0} {1}. {2} {3}. {4}"
+    },
+    {
+        "id": "RCheckPlayingFor",
+        "text": "You have been playing for"
+    },
+    {
+        "id": "RCheckReminder",
+        "text": "A GENTLE REMINDER"
+    },
+    {
+        "id": "RCheckSecond",
+        "text": "second"
+    },
+    {
+        "id": "RCheckSeconds",
+        "text": "seconds"
+    },
+    {
+        "id": "RCheckWeek",
+        "text": "week"
+    },
+    {
+        "id": "RCheckWeeks",
+        "text": "weeks"
+    },
+    {
+        "id": "RCheckWon",
+        "text": "During this time you have won"
+    },
+    {
+        "id": "RCheckYear",
+        "text": "year"
+    },
+    {
+        "id": "RCheckYears",
+        "text": "years"
+    },
+    {
+        "id": "reset",
+        "text": "Reset"
+    },
+    {
+        "id": "roundsLeft",
+        "text": "Free rounds"
+    },
+    {
+        "id": "RTCalcBetLineCashNoMultiplier",
+        "text": "A bet line win in cash is equal to the value shown in the Paytable."
+    },
+    {
+        "id": "stopWhenJackpotIsWon",
+        "text": "Stop if jackpot is won"
+    },
+    {
+        "id": "TotalWinwithColonVar",
+        "text": "Total win: {0}"
+    },
+    {
+        "id": "upgradeIn",
+        "text": "Please upgrade {0} in {1}."
+    },
+    {
+        "id": "WinValuesPaytableDynamicPUI2",
+        "text": "When playing with cash, symbol payout values shown in the Paytable are dynamic and change in accordance with the selected bet value."
+    }
+]

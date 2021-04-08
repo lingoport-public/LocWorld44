@@ -1,0 +1,23 @@
+{
+  "issueDescription": {
+    "messages": {
+      "onprem": "This WLC \"{wlcName}\" is currently licensed to support {maxCount} AP(s) and currently has {inUseCount} AP(s). If this trend continues, this WLC will exhaust all its AP license(s)."
+    },
+    "attributes": {
+      "00000_LRMARRCONV": {
+        "params": {
+          "00000_LRMARRCONV": "wlcName",
+          "00001_LRMARRCONV": "maxCount",
+          "00002_LRMARRCONV": "inUseCount"
+        }
+      }
+    }
+  },
+  "suggestedActions": {
+    "00000_LRMARRCONV": {
+      "messages": {
+        "onprem": "Purchase and install additional AP adder licenses."
+      }
+    }
+  }
+}

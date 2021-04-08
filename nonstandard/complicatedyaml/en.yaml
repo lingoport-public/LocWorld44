@@ -1,0 +1,26 @@
+# #######
+# Messages for "tagging"
+
+- key: barcelona_too_many_tags
+  translation:
+    msg: "A Managed Object cannot have more than %d tags"
+- key: barcelona_invalid_tag_prefix
+  translation:
+    msg: "The tag key cannot start with the reserved prefix '%s'"
+- key: barcelona_tag_cannot_be_empty
+  translation:
+    msg: "The tag key cannot be an empty string. The key must have at least one character"
+- key: barcelona_duplicate_tag_key
+  translation:
+    msg: "The tag key '%s' has been set more than once in managed object '%s'. A managed object cannot have duplicate tag keys"
+- key: barcelona_tag_key_too_long
+  translation:
+    msg: "The tag key '%s' has too many characters. The maximum length of a tag key is %d characters"
+- key: barcelona_tag_value_too_long
+  translation:
+    msg: "The tag value '%s' has too many characters. The maximum length of a tag value is %d characters"
+- key: barcelona_tag_summary_unauthorized
+  translation:
+    msg: "This request is an unauthorized request"
+
+# #######

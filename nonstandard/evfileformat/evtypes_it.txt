@@ -1,0 +1,45 @@
+DN: cn=1,ou=evtypes,dc=plasec
+plasecName: Contatto tamper
+
+DN: cn=2,ou=evtypes,dc=plasec
+plasecName: Alimentazione
+
+DN: cn=3,ou=evtypes,dc=plasec
+plasecName: Porta forzata
+
+DN: cn=4,ou=evtypes,dc=plasec
+plasecName: Porta tenuta aperta
+
+DN: cn=5,ou=evtypes,dc=plasec
+plasecName: Intrusione
+
+DN: cn=6,ou=evtypes,dc=plasec
+plasecName: Manutenzione
+
+DN: cn=7,ou=evtypes,dc=plasec
+plasecName: Credenziale non valida
+
+DN: cn=8,ou=evtypes,dc=plasec
+plasecName: Credenziale valida
+
+DN: cn=9,ou=evtypes,dc=plasec
+plasecName: Comunicazioni
+
+DN: cn=10,ou=evtypes,dc=plasec
+plasecName: Sistema
+
+DN: cn=12,ou=evtypes,dc=plasec
+plasecName: Uscita
+
+DN: cn=13,ou=evtypes,dc=plasec
+plasecName: Controllo utente
+
+DN: cn=14,ou=evtypes,dc=plasec
+plasecName: Video
+
+DN: cn=15,ou=evtypes,dc=plasec
+plasecName: Controllo di sistema
+
+DN: cn=17,ou=evtypes,dc=plasec
+plasecName: Biometrica
+

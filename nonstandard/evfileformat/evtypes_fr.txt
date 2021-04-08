@@ -1,0 +1,45 @@
+DN: cn=1,ou=evtypes,dc=plasec
+plasecName: Détecteur auto-protégé
+
+DN: cn=2,ou=evtypes,dc=plasec
+plasecName: Alimentation
+
+DN: cn=3,ou=evtypes,dc=plasec
+plasecName: Porte forcée
+
+DN: cn=4,ou=evtypes,dc=plasec
+plasecName: Porte maintenue ouverte
+
+DN: cn=5,ou=evtypes,dc=plasec
+plasecName: Intrusion
+
+DN: cn=6,ou=evtypes,dc=plasec
+plasecName: Maintenance
+
+DN: cn=7,ou=evtypes,dc=plasec
+plasecName: Identifiants non valides
+
+DN: cn=8,ou=evtypes,dc=plasec
+plasecName: Identifiants valides
+
+DN: cn=9,ou=evtypes,dc=plasec
+plasecName: Communications
+
+DN: cn=10,ou=evtypes,dc=plasec
+plasecName: Système
+
+DN: cn=12,ou=evtypes,dc=plasec
+plasecName: Sortie
+
+DN: cn=13,ou=evtypes,dc=plasec
+plasecName: Audit de l'utilisateur
+
+DN: cn=14,ou=evtypes,dc=plasec
+plasecName: Vidéo
+
+DN: cn=15,ou=evtypes,dc=plasec
+plasecName: Audit du système
+
+DN: cn=17,ou=evtypes,dc=plasec
+plasecName: Biométrique
+

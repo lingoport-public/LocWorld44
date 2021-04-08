@@ -1,0 +1,45 @@
+DN: cn=1,ou=evtypes,dc=plasec
+plasecName: Вскрытие
+
+DN: cn=2,ou=evtypes,dc=plasec
+plasecName: Питание
+
+DN: cn=3,ou=evtypes,dc=plasec
+plasecName: Вскрытая дверь
+
+DN: cn=4,ou=evtypes,dc=plasec
+plasecName: удержание двери в открытом положении;
+
+DN: cn=5,ou=evtypes,dc=plasec
+plasecName: Вторжение
+
+DN: cn=6,ou=evtypes,dc=plasec
+plasecName: Техническое обслуживание
+
+DN: cn=7,ou=evtypes,dc=plasec
+plasecName: Неверные данные
+
+DN: cn=8,ou=evtypes,dc=plasec
+plasecName: Действительные полномочия
+
+DN: cn=9,ou=evtypes,dc=plasec
+plasecName: Коммуникации
+
+DN: cn=10,ou=evtypes,dc=plasec
+plasecName: Система
+
+DN: cn=12,ou=evtypes,dc=plasec
+plasecName: Выход
+
+DN: cn=13,ou=evtypes,dc=plasec
+plasecName: Проверка пользователя
+
+DN: cn=14,ou=evtypes,dc=plasec
+plasecName: Видео
+
+DN: cn=15,ou=evtypes,dc=plasec
+plasecName: Проверка системы
+
+DN: cn=17,ou=evtypes,dc=plasec
+plasecName: Биометрические параметры
+

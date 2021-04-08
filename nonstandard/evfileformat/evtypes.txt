@@ -1,0 +1,45 @@
+DN: cn=1,ou=evtypes,dc=plasec
+plasecName: Tamper
+
+DN: cn=2,ou=evtypes,dc=plasec
+plasecName: Power
+
+DN: cn=3,ou=evtypes,dc=plasec
+plasecName: Forced Door
+
+DN: cn=4,ou=evtypes,dc=plasec
+plasecName: Door held open
+
+DN: cn=5,ou=evtypes,dc=plasec
+plasecName: Intrusion
+
+DN: cn=6,ou=evtypes,dc=plasec
+plasecName: Maintenance
+
+DN: cn=7,ou=evtypes,dc=plasec
+plasecName: Invalid Credential
+
+DN: cn=8,ou=evtypes,dc=plasec
+plasecName: Valid Credential
+
+DN: cn=9,ou=evtypes,dc=plasec
+plasecName: Communications
+
+DN: cn=10,ou=evtypes,dc=plasec
+plasecName: System
+
+DN: cn=12,ou=evtypes,dc=plasec
+plasecName: Output
+
+DN: cn=13,ou=evtypes,dc=plasec
+plasecName: User audit
+
+DN: cn=14,ou=evtypes,dc=plasec
+plasecName: Video
+
+DN: cn=15,ou=evtypes,dc=plasec
+plasecName: System audit
+
+DN: cn=17,ou=evtypes,dc=plasec
+plasecName: Biometric
+
