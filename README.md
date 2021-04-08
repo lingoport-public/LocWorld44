@@ -7,10 +7,11 @@ Resource files are part of an application code. They contain user facing strings
 Resource files should be easy to identify, both in terms of which files to translate and which files were translated. They should also contain key value pairs so that the application references a key and a locale to get the corresponding value, or string, in that locale. 
 
 ## standard file formats
-This repository presents examples of standard resource file formats. Standard file formats can be used in a variety of downstream processes and products, from Lingoport Localyzer to TMS's or even pure Machine Translation engines. In the 'standard' directory, we show a few simple example of standard files well understood by the industry ecosystem.
+This repository presents examples of standard resource file formats. Standard file formats can be used in a variety of downstream processes and products, from <b>Lingoport Localyzer</b> to <b>Localyzer Express</b> and <b>LocalyzerQA</b> to TMS's or even pure Machine Translation engines. In the 'standard' directory, we show a few simple example of standard files well understood by the industry ecosystem.
 
 ## non standard file formats
 For developers with little knowledge of i18n and L10n, creating and reading from a special file format may look like a good idea. However, non standard file formats usage tends to be short-sighted. It prevents the L10n ecosystem from working with them out of the box. 
-In the case of Lingoport Localyzer, there are a number of mechanism to handle non standard file formats, especially the transform framework which allows non standard files to be transformed into temporary standard files for L10n purposes and still keep the non standard file formats for the application and its repository.
+
+In the case of <b>Lingoport Localyzer</b>, there are a number of mechanism to handle non standard file formats, especially the transform framework which allows non standard files to be transformed into temporary standard files for L10n purposes and still keep the non standard file formats for the application and its repository.
 
 We strongly recommend using standard file formats whenever possible for a better overall software localization. 
