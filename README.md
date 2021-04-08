@@ -1,5 +1,5 @@
 # LocWorld44
-We created this repository as an illustration of how to develop resource files, either in a standard way or in a suboptimal way, both for software developers and for localization processes. This presentation will be part of LocWorld44.
+We created this repository as an illustration of resource files are created, either in a standard way or in a suboptimal way. The way resource files are created affect both  software development and localization processes. This presentation will be part of LocWorld44.
 
 ## resource files
 Resource files are part of an application code. They contain user facing strings, from UI labels and menus to email and report strings. Resource files are written by developers in a language, say US English, and sent for translation in target locales, such as French, Spanish, Japanese, Chinese, or Korean.
