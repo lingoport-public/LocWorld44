@@ -12,6 +12,8 @@ This repository presents examples of standard resource file formats. Standard fi
 ## non standard file formats
 For developers with little knowledge of i18n and L10n, creating and reading from a special file format may look like a good idea. However, non standard file formats usage tends to be short-sighted. It prevents the L10n ecosystem from working with them out of the box. 
 
+The <code>nonstandard</code> directory shows a few illustrative examples of some non-standard file types. 
+
 In the case of <b>Lingoport Localyzer</b>, there are a number of mechanism to handle non standard file formats, especially the transform framework which allows non standard files to be transformed into temporary standard files for L10n purposes and still keep the non standard file formats for the application and its repository.
 
 We strongly recommend using standard file formats whenever possible for a better overall software localization. 
