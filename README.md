@@ -20,5 +20,5 @@ The <code>nonstandard</code> directory shows a few illustrative examples of some
 We strongly recommend using standard file formats whenever possible for a better overall software localization.
 
 ## Localyzer
-In the case of <b>Lingoport [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/)</b>, the transform framework  allows non standard files to be transformed into temporary standard files for L10n purposes and still keep the non standard file formats for the application and its repository.
+In the case of <b>Lingoport [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/)</b> automation, the transform framework  allows non standard files to be transformed into temporary standard files for L10n purposes and still keep the non standard file formats for the application and its repository. And Localyzer handles standard file formats with validation, notification, automation back and forth TMS's or pure MT. 
  
