@@ -24,4 +24,4 @@ a standard file such as <code>en/i18n_general.json</code>  (and <code>ja/i18n_ge
       "understand": "Understand",
 
 ## Localyzer Note
-With Lingoport [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/), the transform framework is used to move <code>i18n_general.js</code> type files to <code>en/i18n_general.json</code> so the system (automation, verification, dashboard, TMS or MT, etc.) works smoothly.
+With Lingoport [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/), the transform framework is used to move <code>i18n_general.js</code> type files to <code>en/i18n_general.json</code> and the system (automation, verification, dashboard, TMS or MT, etc.) works smoothly.
