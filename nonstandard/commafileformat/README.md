@@ -1,4 +1,4 @@
-# The format
+## The non standard format
 The format in this real life example is close to that of .properties files. Properties files are well understood by lots of systems, whereas .txt files can take many forms. 
 
 Instead of <code>strings.txt</code> (and <code>strings-fr.txt</code>, etc.)
