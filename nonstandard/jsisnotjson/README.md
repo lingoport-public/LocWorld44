@@ -1,6 +1,6 @@
 ## The non standard format
 The format in this real life example is close to that of .json files. 
-* JSON files are well understood by lots of systems, whereas .ja files can take many forms and should be used for programming, not localization data. 
+* JSON files are well understood by lots of systems, whereas .js files can take many forms and should be used for programming, not localization data. 
 * the locale for a source or a translated file should use the ISO form
 * the locale should be only indicated in the file name
 * JSON files do not have comments as opposed to .js files
