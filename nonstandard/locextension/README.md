@@ -24,3 +24,4 @@ a standard file such as <code>hyc.properties</code>  (and <code>hyc_de.propertie
 
 ## Localyzer Note
 With Lingoport [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/), the transform framework is used to move <code>en/HYC.LOC</code> type files to <code>en/HYC.properties</code> and the system (automation, verification, dashboard, TMS or MT, etc.) works smoothly.
+And it does not change the way the files are in the repository.
