@@ -17,4 +17,4 @@ A  more standard format such as <code>evtypes.properties</code> (and <code>evtyp
     cn2=Power
 
 ## Localyzer Note
-With Localyzer, the transform framework is used to move <code>evtypes.txt</code> type files to a simple key value based <code>evtypes.properties</code> so the system (automation, verification, dashboard, TMS or MT, etc.) works smoothly.
+With Lingoport [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/), the transform framework is used to move <code>evtypes.txt</code> type files to a simple key value based <code>evtypes.properties</code> so the system (automation, verification, dashboard, TMS or MT, etc.) works smoothly.
