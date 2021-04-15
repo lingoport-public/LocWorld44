@@ -18,4 +18,4 @@ the standard <code>strings.properties</code> (and <code>strings_fr.properties</c
     ApplyButtonText=Apply
 
 ## Localyzer Note
-With Localyzer, the transform framework is used to move <code>strings.txt</code> type files to <code>strings.properties</code> so the system (automation, verification, dashboard, TMS or MT, etc.) works smoothly.
+With Lingoport [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/), the transform framework is used to move <code>strings.txt</code> type files to <code>strings.properties</code> so the system (automation, verification, dashboard, TMS or MT, etc.) works smoothly.
