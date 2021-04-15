@@ -16,3 +16,4 @@ the more standard <code>message_en.yaml</code> (and <code>messages_fr.yaml</code
 
 ## Localyzer Note
 With Lingoport [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/), the transform framework is used to move <code>en.yaml</code> type files to a simple key value based <code>en.yml</code> so the system (automation, verification, dashboard, TMS or MT, etc.) works smoothly.
+And it does not change the way the files in the repository.
