@@ -3,11 +3,11 @@ The format in this real life example is close to that of .properties files. Prop
 
 Instead of <code>strings.txt</code> 
 
-  #################################################
-  # Strings for use in GUI
-  #################################################
-  CloseButtonText,Close
-  ApplyButtonText,Apply
+    #################################################
+    # Strings for use in GUI
+    #################################################
+    CloseButtonText,Close
+    ApplyButtonText,Apply
 
 <code>strings.properties</code> could have been used
 
