@@ -15,19 +15,7 @@
 1	Info: Cannot open: %s
 2	Info: Memory allocation not possible
 7	Info: Cannot find %s
-8	Info: Check ACAD environment variable
+8	Info: Check environment variable
 18	Info: DEMO-MODE
 20	Info: AutoCAD german or english required
 34	Info: Generating toolpaths...
-35	Info: Generating toolpath...
-36	Info: Generating toolpath %d
-37	Info: Region %d / %d
-38	Info: Generating toolpath %d 
-39	Info: Preprocessing surface %d of %d
-100	Error: Wrong protection key
-101	Info: NC generation complete.
-102	Error initializing NC/tool system
-103	Info: NC/tool system cannot be used
-104	Info: NC generation for tool tip
-105	Info: NC generation for tool center
-106	milling
