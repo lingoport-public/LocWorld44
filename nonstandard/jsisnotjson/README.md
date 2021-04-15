@@ -24,3 +24,4 @@ a standard file such as <code>messages_en.json</code>  (and <code>messages_fr.js
 
 ## Localyzer Note
 With Lingoport [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/), the transform framework is used to move <code>english.js</code> type files to <code>messages_en.json</code> so the system (automation, verification, dashboard, TMS or MT, etc.) works smoothly.
+And it does not change the way the files in the repository.
