@@ -18,7 +18,7 @@ The Localizable.string type file itself will follow the iOS form and the file wi
     
 with or without the /* comments */ 
 
-When following these iOS guidelines, development and translation will be able to leverage the ecosystem. 
+When following these iOS guidelines, development and translation will be able to leverage the localization ecosystem. 
 
 ### LocalyzerExpress
 For example, one can add the [LocalyzerExpress](https://github.com/marketplace/localyzer-express) GitHub marketplace application go automatically have the source files always translated in the target locales of interest right away.
