@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+  <string name="action_cancelled">Action annulée</string>
+  <string name="no_internet_title">Aucune connexion à l’Internet</string>
+  <string name="internet_disconnect_try_again">Impossible d’effectuer cette action. Vérifiez votre connexion et réessayez.</string>
+  <string name="ok">OK</string>
+  <string name="cancel">Annuler</string>
+</resources>
