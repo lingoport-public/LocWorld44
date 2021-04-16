@@ -18,14 +18,14 @@ The strings.xml file itself will follow the Android schema for strings and the f
     
 When following these Android guidelines, development and translation will be able to leverage the ecosystem. 
 
-## LocalyzerExpress
+### LocalyzerExpress
 For example, one can add the [LocalyzerExpress](https://github.com/marketplace/localyzer-express) GitHub marketplace application go automatically have the source files always translated in the target locales of interest right away.
 See: https://lingoport.com/software-internationalization-products/express-suite/ 
 
-## Localyzer
+### Localyzer
 For more complex repositories, one can use [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/) to automate the translation with LSP's, TMS's, etc.
 
-## LocalyzerQA
+### LocalyzerQA
 Once files are translate with [Localyzer](https://lingoport.com/software-internationalization-products/localyzer-localization-automation/) or [LocalyzerExpress](https://github.com/marketplace/localyzer-express), 
 linguistic reviewers can check the translations in the running application using [LocalyzerQA](https://localyzerqa.lingoport.io/localyzerqa). 
 See: https://lingoport.com/software-internationalization-products/localyzerqa-linguistic-qa/ 
