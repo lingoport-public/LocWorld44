@@ -78,7 +78,7 @@
     <comment>Sort level</comment>
   </data>
   <data name="TutorialWelcome" xml:space="preserve">
-    <value>[<![CDATA[ <message> Welcome to TutorialsPoint </message> ]] ></value>
+    <value>[<![CDATA[ <message> Welcome to TutorialsPoint </message> ]]></value>
     <comment>Welcome to Tutorials</comment>
   </data>
 </root>
