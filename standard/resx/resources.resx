@@ -77,8 +77,8 @@
     <value>This Summary [Account] Group Name already exists in the table more than once with different sort orders, the sort orders will be set to {0} to be consistent.</value>
     <comment>Sort level</comment>
   </data>
-  <data name="ErrorAccountDoesNotExist" xml:space="preserve">
-    <value>[Account] {0} does not exist.</value>
-    <comment>{0} - Account id</comment>
+  <data name="TutorialWelcome" xml:space="preserve">
+    <value>[<![CDATA[ <message> Welcome to TutorialsPoint </message> ]] ></value>
+    <comment>Welcome to Tutorials</comment>
   </data>
 </root>
