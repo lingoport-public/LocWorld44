@@ -81,4 +81,12 @@
     <value>MM/DD/YYYY</value>
     <comment>Welcome to Tutorials</comment>
   </data>
+  <data name="TutorialWelcomeCdata1" xml:space="preserve">
+    <value><![CDATA[this text is inside cdata]]></value>
+    <comment>Welcome to Tutorials</comment>
+  </data>
+  <data name="TutorialWelcomeCdata2" xml:space="preserve">
+    <value><![CDATA[service]]></value>
+    <comment>Welcome to Tutorials</comment>
+  </data>
 </root>
