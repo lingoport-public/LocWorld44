@@ -6,5 +6,6 @@
   "deletedTask": "deleted the task ${taskName}",
   "login": "login",
   "welcome": "welcome",
-  "useLink": "use this link"
+  "useLink": "use this link",
+  "CC2.2.23" "Production version test"
 }
