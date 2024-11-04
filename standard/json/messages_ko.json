@@ -1,0 +1,8 @@
+{
+  "AddAsset": " Add Asset",
+  "AddTutorial": " Add Tutorial",
+  "createdDashboard": "created the dashboard",
+  "deletedDashboard": "deleted the dashboard",
+  "deletedTask": "deleted the task ${taskName}",
+  "useLink": "use this link"
+}
