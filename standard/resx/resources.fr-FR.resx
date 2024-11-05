@@ -81,4 +81,10 @@
     <value>[Account] {0} does not exist.</value>
     <comment>{0} - Account id</comment>
   </data>
+  <data name="C200" xml:space="preserve">
+    <value>Two hundred</value>
+  </data>
+  <data name="C300" xml:space="preserve">
+    <value>Three hundred.</value>
+  </data>
 </root>
