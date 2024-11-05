@@ -5,4 +5,6 @@
   <string name="internet_disconnect_try_again">This action cannot be completed. Please check your connection, and try again.</string>
   <string name="ok">OK</string>
   <string name="cancel">Cancel</string>
+  <string name="C100">Ready</string> 
+  <string name="C101">Fire</string>
 </resources>
