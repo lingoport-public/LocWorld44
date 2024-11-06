@@ -7,4 +7,6 @@
   <string name="cancel">Annuler</string>
   <string name="C100">Ready</string> 
   <string name="C101">Fire</string>
+   <string name="C102">Elections</string> 
+  <string name="C103">Results</string>
 </resources>
