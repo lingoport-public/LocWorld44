@@ -4,5 +4,7 @@
   "createdDashboard": "creó el tablero",
   "deletedDashboard": "eliminar el tablero",
   "deletedTask": "eliminar la tarea ${taskName}",
+  "election": "Elections",
+  "results": "Results",
   "useLink": "usa este enlace"
 }
