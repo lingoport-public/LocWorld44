@@ -87,4 +87,10 @@
   <data name="C300" xml:space="preserve">
     <value>Three hundred.</value>
   </data>
+  <data name="C400" xml:space="preserve">
+    <value>Four hundred</value>
+  </data>
+  <data name="C500" xml:space="preserve">
+    <value>Five hundred.</value>
+  </data>
 </root>
