@@ -6,5 +6,7 @@
   "deletedTask": "Supprimer la tâche ${taskName}",
   "election": "Elections",
   "results": "Results",
-  "useLink": "Suive le lien"
+  "useLink": "Suive le lien",
+  "open": "Open",
+  "fix": "Fix"
 }
