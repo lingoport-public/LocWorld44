@@ -8,5 +8,7 @@
   "results": "Results",
   "useLink": "Suive le lien",
   "open": "Open",
-  "fix": "Fix"
+  "fix": "Fix",
+  "QA": "Assurance qualité",
+  "Prod": "Voie de production"
 }

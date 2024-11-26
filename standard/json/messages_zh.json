@@ -8,5 +8,7 @@
   "results": "Results",
   "useLink": "use this link",
   "open": "Open",
-  "fix": "Fix"
+  "fix": "Fix",
+  "QA": "质量保证",
+  "Prod": "生产管道"
 }
