@@ -99,4 +99,10 @@
   <data name="C700" xml:space="preserve">
     <value>Seven hundred.</value>
   </data>
+  <data name="C800" xml:space="preserve">
+    <value>Priorität</value>
+  </data>
+  <data name="C801" xml:space="preserve">
+    <value>Strenge</value>
+  </data>
 </root>
