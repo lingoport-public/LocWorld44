@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+  <string name="action_cancelled">行动已取消</string>
+  <string name="no_internet_title">无网际网路连线</string>
+  <string name="internet_disconnect_try_again">此动作无法完成。请检查网路连线，然后再试一次。</string>
+  <string name="ok">还行</string>
+  <string name="cancel">取消</string>
+  <string name="C100">准备</string> 
+  <string name="C101">火灾</string>
+   <string name="C102">输入瑕疵</string> 
+  <string name="C103">解决</string>
+</resources>
