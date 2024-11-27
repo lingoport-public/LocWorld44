@@ -10,5 +10,7 @@
   "open":"Open",
   "fix":"Fix",
   "QA": "Quality Assurance",
-  "Prod": "Production Lane"
+  "Prod": "Production Lane",
+  "JSON": "JSON files test",
+  "RESX": "resx files test"
 }
