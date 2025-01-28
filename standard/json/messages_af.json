@@ -10,5 +10,7 @@
   "open": "Open",
   "fix": "Fix",
   "QA": "Kwaliteitsversekering",
-  "Prod": "Produksie Lane"
+  "Prod": "Produksie Lane",
+  "JSON": "JSON-lêers toets",
+  "RESX": "resx lêers toets"
 }
