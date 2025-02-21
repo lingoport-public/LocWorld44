@@ -105,4 +105,10 @@
   <data name="C801" xml:space="preserve">
     <value>Severity</value>
   </data>
+  <data name="C802" xml:space="preserve">
+    <value>Track Issues</value>
+  </data>
+  <data name="C803" xml:space="preserve">
+    <value>Send to translation</value>
+  </data>
 </root>
