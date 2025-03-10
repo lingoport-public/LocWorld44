@@ -105,4 +105,10 @@
   <data name="C801" xml:space="preserve">
     <value>Strenge</value>
   </data>
+  <data name="C802" xml:space="preserve">
+    <value>Das Wetter is so slecht heute. Wir brauchen mehr Sone. Bitte!</value>
+  </data>
+  <data name="C803" xml:space="preserve">
+    <value>Die Bus Halte Stelle ist in der Nahe. Mochten Sie zu Fuss gehen?</value>
+  </data>
 </root>
