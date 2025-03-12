@@ -5,25 +5,21 @@
   <string translate="Yes" SID="dum_series" segmentID="1" minLength="" maxLength="30" 
           LRM_INCONTEXT="https://olibouban.lingoport.io/incontext-server/lookup?key=9670_54&token=eb155m17046u70dG81a275EorSPXJX4n">
     DUM-Series Droid
-    <llm_prompt>Starwars type droid.</llm_prompt>
   </string>
 
   <string translate="Yes" SID="brain_surgeon_droid" segmentID="2" minLength="" maxLength="35" 
           LRM_INCONTEXT="https://olibouban.lingoport.io/incontext-server/lookup?key=9671_54&token=eb155m17046u70dG81a275EorSPXJX4n">
     2-1B Brain Surgeon Droid
-    <llm_prompt>Keep a cool head with this surgeon.</llm_prompt>
   </string>
 
   <string translate="Yes" SID="IG_888" segmentID="3" minLength="" maxLength="" 
           LRM_INCONTEXT="https://olibouban.lingoport.io/incontext-server/lookup?key=9672_54&token=eb155m17046u70dG81a275EorSPXJX4n">
     IG-88B Droid
-    <llm_prompt></llm_prompt>
   </string>
 
   <string translate="Yes" SID="ETA2_Interceptor" segmentID="4" minLength="" maxLength="20" 
           LRM_INCONTEXT="https://olibouban.lingoport.io/incontext-server/lookup?key=9677_54&token=eb155m17046u70dG81a275EorSPXJX4n">
    ETA-2 Interceptor
-    <llm_prompt>Space Ship Vehicule</llm_prompt>
   </string>
 
 </resources>
