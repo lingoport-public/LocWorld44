@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+
+  <!-- Embedded Metadata for Easy XPath Queries -->
+  <string segmentID="1" minLength="" LRM_INCONTEXT="https://olibouban.lingoport.io/incontext-server/lookup?key=9670_54&amp;token=eb155m17046u70dG81a275EorSPXJX4n" translate="Yes" maxLength="30" SID="dum_series">[ÐÛṀ-Šéŕîéš Ðŕöîð--------- П國カ내]</string>
+
+  <string segmentID="2" minLength="" LRM_INCONTEXT="https://olibouban.lingoport.io/incontext-server/lookup?key=9671_54&amp;token=eb155m17046u70dG81a275EorSPXJX4n" translate="Yes" maxLength="35" SID="brain_surgeon_droid">[2-1Ɓ Ɓŕåîñ Šûŕĝéöñ Ðŕöîð------------ П國カ내]</string>
+
+  <string segmentID="3" minLength="" LRM_INCONTEXT="https://olibouban.lingoport.io/incontext-server/lookup?key=9672_54&amp;token=eb155m17046u70dG81a275EorSPXJX4n" translate="Yes" maxLength="" SID="IG_888">[ÎĜ-88Ɓ Ðŕöîð----- П國カ내]</string>
+
+  <string segmentID="4" minLength="" LRM_INCONTEXT="https://olibouban.lingoport.io/incontext-server/lookup?key=9677_54&amp;token=eb155m17046u70dG81a275EorSPXJX4n" translate="Yes" maxLength="20" SID="ETA2_Interceptor">[ÉŢÅ-2 Îñţéŕçéþţöŕ---------- П國カ내]</string>
+
+</resources>
