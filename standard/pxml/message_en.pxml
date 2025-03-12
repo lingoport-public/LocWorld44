@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+
+  <!-- Embedded Metadata for Easy XPath Queries -->
+  <string translate="Yes" SID="action_cancelled" segmentID="1" minLength="5" maxLength="20" 
+          LRM_INCONTEXT="https://rwscampus.lingoport.io/incontext-server/lookup?key=165219_100&amp;token=eb155m17046u70dG81a275EorSPXJX4n">
+    CR90 Corvette
+    <llm_prompt>Starwars type spaceship.</llm_prompt>
+  </string>
+
+  <string translate="Yes" SID="no_internet_title" segmentID="2" minLength="5" maxLength="25" 
+          LRM_INCONTEXT="https://rwscampus.lingoport.io/incontext-server/lookup?key=165221_100&amp;token=eb155m17046u70dG81a275EorSPXJX4n">
+    ETA-2 Interceptor
+    <llm_prompt>Use a neutral tone and avoid slang.</llm_prompt>
+  </string>
+  
+    <string translate="No" SID="REF_ONLY" segmentID="3" minLength="" maxLength="" 
+          LRM_INCONTEXT="https://rwscampus.lingoport.io/incontext-server/lookup?key=165221_100&amp;token=eb155m17046u70dG81a275EorSPXJX4n">
+    Just here for the ride
+    <llm_prompt></llm_prompt>
+  </string>
+
+  <string translate="Yes" SID="internet_disconnect_try_again" segmentID="4" minLength="5" maxLength="15" 
+          LRM_INCONTEXT="https://rwscampus.lingoport.io/incontext-server/lookup?key=165216_100&amp;token=eb155m17046u70dG81a275EorSPXJX4n">
+    IG-88B Droid
+    <llm_prompt>Ensure this is phrased in a way that makes it clear to users that this is an error message.</llm_prompt>
+  </string>
+
+  <string translate="Yes" SID="ok" segmentID="5" minLength="2" maxLength="10" 
+          LRM_INCONTEXT="https://rwscampus.lingoport.io/incontext-server/lookup?key=115277_191&amp;token=eb155m17046u70dG81a275EorSPXJX4n">
+    No Context
+    <llm_prompt>Keep it short and suitable for UI buttons.</llm_prompt>
+  </string>
+
+  <string SID="cancel" segmentID="6" minLength="2" maxLength="10" 
+          LRM_INCONTEXT="https://rwscampus.lingoport.io/incontext-server/lookup?key=115278_191">
+    No Token
+    <llm_prompt>Ensure clarity in UI elements, meaning "stop this action".</llm_prompt>
+  </string>
+
+</resources>
