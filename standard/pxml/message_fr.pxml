@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+
+  <!-- Embedded Metadata for Easy XPath Queries -->
+  <string translate="Yes" SID="dum_series" segmentID="1" minLength="" maxLength="30" 
+          LRM_INCONTEXT="https://olibouban.lingoport.io/incontext-server/lookup?key=9670_54&amp;token=eb155m17046u70dG81a275EorSPXJX4n">
+    Série DUM Droid
+   <llm_prompt>Use a neutral tone and avoid slang.</llm_prompt>
+  </string>
+
+  <string translate="Yes" SID="brain_surgeon_droid" segmentID="2" minLength="" maxLength="35" 
+          LRM_INCONTEXT="https://olibouban.lingoport.io/incontext-server/lookup?key=9671_54&amp;token=eb155m17046u70dG81a275EorSPXJX4n">
+    2-1B Droïde chirurgien cérébral
+   <llm_prompt></llm_prompt>
+  </string>
+
+  <string translate="Yes" SID="IG_888" segmentID="3" minLength="" maxLength="" 
+          LRM_INCONTEXT="https://olibouban.lingoport.io/incontext-server/lookup?key=9672_54&amp;token=eb155m17046u70dG81a275EorSPXJX4n">
+    Droïde IG-88B
+    <llm_prompt>Bad boy droid</llm_prompt>
+  </string>
+
+  <string translate="Yes" SID="ETA2_Interceptor" segmentID="4" minLength="" maxLength="20" 
+          LRM_INCONTEXT="https://olibouban.lingoport.io/incontext-server/lookup?key=9677_54&amp;token=eb155m17046u70dG81a275EorSPXJX4n">
+   Intercepteur ETA-2
+   <llm_prompt>A space ship.</llm_prompt>
+  </string>
+
+</resources>
