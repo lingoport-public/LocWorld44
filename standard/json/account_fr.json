@@ -1,0 +1,20 @@
+﻿{
+    "NODE_ALREADY_IN_USE": "Le nœud {nodeId} est déjà utilisé par le compte de l'entreprise {locationId}.",
+    "NODE_ALREADY_EXISTS": "Le nœud {nodeId} existe déjà",
+    "NODE_UNASSIGNABLE": "Le nœud {nodeId} ne peut pas être attribué.",
+    "NODES_ALREADY_ASSIGNED": "Les nœuds suivants sont déjà attribués : {nodes}.",
+    "NODE_MISSING_ETH_MAC": "Il manque une adresse MAC Ethernet au nœud {nodeId}.",
+    "ACCOUNT_ID_ALREADY_EXISTS": "Le compte de l'entreprise avec cet identifiant existe déjà.",
+    "ACCOUNT_DOES_NOT_EXIST": "Il n'existe pas de compte d'entreprise pour ce locataire.",
+    "EMAIL_ALREADY_EXISTS": "Le compte de l'entreprise avec cet email existe déjà.",
+    "ACCOUNT_ALREADY_VERIFIED": "Impossible de modifier l'adresse électronique ou le nom du compte, car l'adresse électronique du compte est déjà vérifiée.",
+    "ACCOUNT_TO_BE_DELETED": "{count, plural, one {Ce compte sera définitivement supprimé dans # jour.} other {Ce compte sera définitivement supprimé dans # jours.}}",
+    "PROPERTY_WIFI_PASSWORD_IS_REQUIRED": "Le mot de passe Wifi de la propriété est requis.",
+    "PROPERTY_WIFI_SSIDS_MUST_DIFFER": "Les SSID de la propriété et de la communauté doivent être différents.",
+    "NODE_MUST_BE_UNASSIGNED": "Le nœud doit être désaffecté d'une unité.",
+    "PROPERTY_MUST_BE_EMPTY": "Le bien doit être vide.",
+    "CANNOT_SET_ACCOUNT_ID_ON_UNIT": "Impossible de définir l'ID du compte sur l'unité lorsque l'unité n'est pas en paiement groupé",
+    "CANNOT_SET_ACCOUNT_ID_ON_TENANT": "Impossible de définir l'ID de compte du locataire lorsque l'unité est en paiement groupé",
+    "UNIT_OR_TENANT_HAS_IOT_NETWORK_CONFIGURATION": "L'unité ou le locataire dispose d'une configuration de réseau IoT",
+    "ENCRYPTION_KEY_IS_NOT_UNIQUE": "Le mot de passe n'est pas unique."
+  }

@@ -1,0 +1,20 @@
+﻿{
+    "NODE_ALREADY_IN_USE": "Der Knoten {nodeId} wird bereits vom Firmenkonto {locationId} verwendet.",
+    "NODE_ALREADY_EXISTS": "Der Knoten {nodeId} existiert bereits",
+    "NODE_UNASSIGNABLE": "Der Knoten {nodeId} kann nicht zugewiesen werden.",
+    "NODES_ALREADY_ASSIGNED": "Die folgenden Knoten sind bereits zugeordnet: {nodes}.",
+    "NODE_MISSING_ETH_MAC": "Dem Knoten {nodeId} fehlt eine Ethernet-MAC-Adresse.",
+    "ACCOUNT_ID_ALREADY_EXISTS": "Das Firmenkonto mit dieser Konto-ID existiert bereits.",
+    "ACCOUNT_DOES_NOT_EXIST": "Ein Firmenkonto existiert für diesen Mieter nicht.",
+    "EMAIL_ALREADY_EXISTS": "Ein Firmenkonto mit dieser E-Mail existiert bereits.",
+    "ACCOUNT_ALREADY_VERIFIED": "E-Mail oder Name des Kontos können nicht geändert werden, da die E-Mail des Kontos bereits verifiziert ist.",
+    "ACCOUNT_TO_BE_DELETED": "{count, plural, one {Dieses Konto wird in # Tagen endgültig gelöscht.} other {Dieses Konto wird in # Tagen endgültig gelöscht.}}",
+    "PROPERTY_WIFI_PASSWORD_IS_REQUIRED": "Das Wifi-Passwort der Immobilie ist erforderlich.",
+    "PROPERTY_WIFI_SSIDS_MUST_DIFFER": "Eigentums- und Gemeinschafts-SSIDs müssen unterschiedlich sein.",
+    "NODE_MUST_BE_UNASSIGNED": "Der Knoten muss von einer Einheit abgekoppelt werden.",
+    "PROPERTY_MUST_BE_EMPTY": "Die Eigenschaft muss leer sein.",
+    "CANNOT_SET_ACCOUNT_ID_ON_UNIT": "Die Konto-ID kann nicht auf die Einheit gesetzt werden, wenn es sich nicht um eine Massenzahlungseinheit handelt",
+    "CANNOT_SET_ACCOUNT_ID_ON_TENANT": "Kann keine Konto-ID für den Mieter festlegen, wenn die Einheit eine Sammelzahlung ist",
+    "UNIT_OR_TENANT_HAS_IOT_NETWORK_CONFIGURATION": "Einheit oder Mieter hat IoT-Netzwerkkonfiguration",
+    "ENCRYPTION_KEY_IS_NOT_UNIQUE": "Das Passwort ist nicht eindeutig."
+  }

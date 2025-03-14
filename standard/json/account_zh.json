@@ -1,0 +1,20 @@
+﻿{
+    "NODE_ALREADY_IN_USE": "节点 {nodeId} 已被公司账户 {locationId} 使用。",
+    "NODE_ALREADY_EXISTS": "节点 {nodeId} 已经存在",
+    "NODE_UNASSIGNABLE": "无法分配节点 {nodeId} 。",
+    "NODES_ALREADY_ASSIGNED": "已分配以下节点： {nodes} 。",
+    "NODE_MISSING_ETH_MAC": "节点 {nodeId} 缺少一个以太网 MAC 地址。",
+    "ACCOUNT_ID_ALREADY_EXISTS": "具有此帐户 ID 的公司帐户已经存在。",
+    "ACCOUNT_DOES_NOT_EXIST": "该租户不存在公司账户。",
+    "EMAIL_ALREADY_EXISTS": "使用此电子邮件的公司帐户已经存在。",
+    "ACCOUNT_ALREADY_VERIFIED": "无法更改帐户电子邮件或名称，因为帐户电子邮件已通过验证。",
+    "ACCOUNT_TO_BE_DELETED": "{count, plural, one {此账户将在 # 天后被永久删除。} other {此账户将在 # 天后被永久删除。}}",
+    "PROPERTY_WIFI_PASSWORD_IS_REQUIRED": "需要物业 Wifi 密码。",
+    "PROPERTY_WIFI_SSIDS_MUST_DIFFER": "物业和社区的 SSID 必须不同。",
+    "NODE_MUST_BE_UNASSIGNED": "节点必须从一个单元中解除分配。",
+    "PROPERTY_MUST_BE_EMPTY": "属性必须为空。",
+    "CANNOT_SET_ACCOUNT_ID_ON_UNIT": "单位未批量支付时，无法在单位上设置账户 ID",
+    "CANNOT_SET_ACCOUNT_ID_ON_TENANT": "单位批量付费时，无法为租户设置账户 ID",
+    "UNIT_OR_TENANT_HAS_IOT_NETWORK_CONFIGURATION": "单位或租户拥有物联网网络配置",
+    "ENCRYPTION_KEY_IS_NOT_UNIQUE": "密码不唯一。"
+  }
