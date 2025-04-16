@@ -5,6 +5,7 @@
     "NODES_ALREADY_ASSIGNED": "The following nodes are already assigned: {nodes}.",
     "NODE_MISSING_ETH_MAC": "Node {nodeId} is missing an ethernet MAC address.",
     "ACCOUNT_ID_ALREADY_EXISTS": "Company account with this account ID already exists.",
+    "ADD_KEY_CHECK_REVIEW": "adding a key on line eight to check the review status for other strings",
     "ACCOUNT_DOES_NOT_EXIST": "A Company account does not exist for this tenant.",
     "EMAIL_ALREADY_EXISTS": "Company account with this email already exists.",
     "ACCOUNT_ALREADY_VERIFIED": "Cannot change account email or name, because account email is already verified.",
