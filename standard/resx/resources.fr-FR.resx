@@ -103,6 +103,6 @@
     <value>Priorité</value>
   </data>
   <data name="C801" xml:space="preserve">
-    <value>Sévérité</value>
+    <value>Criticité</value>
   </data>
 </root>
