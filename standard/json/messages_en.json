@@ -12,5 +12,19 @@
   "QA": "Quality Assurance",
   "Prod": "Production Lane",
   "JSON": "JSON files test",
-  "RESX": "resx files test"
+  "RESX": "resx files test",
+  "profile": "Profile",
+  "home": "Home",
+  "agenda": "Agenda",
+  "speakers": "Speakers",
+  "sponsors": "Sponsors",
+  "networking": "NETWORKING",
+  "boards": "Discussion boards",
+  "contacts": "Contacts",
+  "chats": "Chats",
+  "psearch": "People Search",
+  "Meetings": "Meetings",
+  "notes": "Notes",
+  "label": "Label",
+  "targeting": "Targeting"
 }
