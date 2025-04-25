@@ -70,39 +70,39 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="WarningThisAccountGroupNameAlreadyExistsWithDifferentSortOrders" xml:space="preserve">
-    <value>193.115283 This [Account] Group Name already exists in the table more than once with different sort orders, the sort orders will be set to {0} to be consistent.</value>
+    <value>210.121492 This [Account] Group Name already exists in the table more than once with different sort orders, the sort orders will be set to {0} to be consistent.</value>
     <comment>Sort level</comment>
   </data>
   <data name="WarningThisSummaryAccountGroupNameAlreadyExistsWithDifferentSortOrders" xml:space="preserve">
-    <value>193.115284 This Summary [Account] Group Name already exists in the table more than once with different sort orders, the sort orders will be set to {0} to be consistent.</value>
+    <value>210.121493 This Summary [Account] Group Name already exists in the table more than once with different sort orders, the sort orders will be set to {0} to be consistent.</value>
     <comment>Sort level</comment>
   </data>
   <data name="ErrorAccountDoesNotExist" xml:space="preserve">
-    <value>193.115285 [Account] {0} does not exist.</value>
+    <value>210.121494 [Account] {0} does not exist.</value>
     <comment>{0} - Account id</comment>
   </data>
   <data name="C200" xml:space="preserve">
-    <value>193.115286 Two hundred</value>
+    <value>210.121495 Two hundred</value>
   </data>
   <data name="C300" xml:space="preserve">
-    <value>193.115287 Three hundred.</value>
+    <value>210.121496 Three hundred.</value>
   </data>
   <data name="C400" xml:space="preserve">
-    <value>193.115288 Four hundred</value>
+    <value>210.121497 Four hundred</value>
   </data>
   <data name="C500" xml:space="preserve">
-    <value>193.115289 Five hundred.</value>
+    <value>210.121498 Five hundred.</value>
   </data>
   <data name="C600" xml:space="preserve">
-    <value>193.115290 Six hundred</value>
+    <value>210.121499 Six hundred</value>
   </data>
   <data name="C700" xml:space="preserve">
-    <value>193.115291 Seven hundred.</value>
+    <value>210.121500 Seven hundred.</value>
   </data>
   <data name="C800" xml:space="preserve">
-    <value>193.115292 Priority</value>
+    <value>210.121501 Priority</value>
   </data>
   <data name="C801" xml:space="preserve">
-    <value>193.115293 Severity</value>
+    <value>210.121502 Severity</value>
   </data>
 </root>
