@@ -78,7 +78,7 @@
     <comment>Sort level</comment>
   </data>
   <data name="ErrorAccountDoesNotExist" xml:space="preserve">
-    <value>[Account] {0} ist nicht vorhanden.</value>
+    <value>[Account] {0} does not exist.</value>
     <comment>{0} - Account id</comment>
   </data>
   <data name="C200" xml:space="preserve">
