@@ -10,5 +10,19 @@
   "open": "Open",
   "fix": "Fix",
   "QA": "Assurance qualité",
-  "Prod": "Voie de production"
+  "Prod": "Voie de production",
+  "profile": "Profile",
+  "home": "Home",
+  "agenda": "Agenda",
+  "speakers": "Speakers",
+  "sponsors": "Sponsors",
+  "networking": "NETWORKING",
+  "boards": "Discussion boards",
+  "contacts": "Contacts",
+  "chats": "Chats",
+  "psearch": "People Search",
+  "Meetings": "Meetings",
+  "notes": "Notes",
+  "label": "Label",
+  "targeting": "Targeting"
 }
