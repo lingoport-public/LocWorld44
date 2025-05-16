@@ -105,4 +105,10 @@
   <data name="C801" xml:space="preserve">
     <value>Severity</value>
   </data>
+  <data name="C900" xml:space="preserve">
+    <value>Is context URL present?</value>
+  </data>
+  <data name="C901" xml:space="preserve">
+    <value>Should the context URL be present?</value>
+  </data>
 </root>
