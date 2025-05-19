@@ -70,39 +70,45 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="WarningThisAccountGroupNameAlreadyExistsWithDifferentSortOrders" xml:space="preserve">
-    <value>&amp;#917564;This [Account] Group Name already exists in the table more than once with different sort orders, the sort orders will be set to {0} to be consistent.&amp;#917568;&amp;#917553;&amp;#917553;&amp;#917557;&amp;#917554;&amp;#917560;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917553;&amp;#917561;&amp;#917555;&amp;#917566;</value>
+    <value>&amp;#917564;This [Account] Group Name already exists in the table more than once with different sort orders, the sort orders will be set to {0} to be consistent.&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
     <comment>Sort level</comment>
   </data>
   <data name="WarningThisSummaryAccountGroupNameAlreadyExistsWithDifferentSortOrders" xml:space="preserve">
-    <value>&amp;#917564;This Summary [Account] Group Name already exists in the table more than once with different sort orders, the sort orders will be set to {0} to be consistent.&amp;#917568;&amp;#917553;&amp;#917553;&amp;#917557;&amp;#917554;&amp;#917560;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917553;&amp;#917561;&amp;#917555;&amp;#917566;</value>
+    <value>&amp;#917564;This Summary [Account] Group Name already exists in the table more than once with different sort orders, the sort orders will be set to {0} to be consistent.&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
     <comment>Sort level</comment>
   </data>
   <data name="ErrorAccountDoesNotExist" xml:space="preserve">
-    <value>&amp;#917564;[Account] {0} does not exist.&amp;#917568;&amp;#917553;&amp;#917553;&amp;#917557;&amp;#917554;&amp;#917560;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917553;&amp;#917561;&amp;#917555;&amp;#917566;</value>
+    <value>&amp;#917564;[Account] {0} does not exist.&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
     <comment>{0} - Account id</comment>
   </data>
   <data name="C200" xml:space="preserve">
-    <value>&amp;#917564;Two hundred&amp;#917568;&amp;#917553;&amp;#917553;&amp;#917557;&amp;#917554;&amp;#917560;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917553;&amp;#917561;&amp;#917555;&amp;#917566;</value>
+    <value>&amp;#917564;Two hundred&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
   </data>
   <data name="C300" xml:space="preserve">
-    <value>&amp;#917564;Three hundred.&amp;#917568;&amp;#917553;&amp;#917553;&amp;#917557;&amp;#917554;&amp;#917560;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917553;&amp;#917561;&amp;#917555;&amp;#917566;</value>
+    <value>&amp;#917564;Three hundred.&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
   </data>
   <data name="C400" xml:space="preserve">
-    <value>&amp;#917564;Four hundred&amp;#917568;&amp;#917553;&amp;#917553;&amp;#917557;&amp;#917554;&amp;#917560;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917553;&amp;#917561;&amp;#917555;&amp;#917566;</value>
+    <value>&amp;#917564;Four hundred&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
   </data>
   <data name="C500" xml:space="preserve">
-    <value>&amp;#917564;Five hundred.&amp;#917568;&amp;#917553;&amp;#917553;&amp;#917557;&amp;#917554;&amp;#917560;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917553;&amp;#917561;&amp;#917555;&amp;#917566;</value>
+    <value>&amp;#917564;Five hundred.&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
   </data>
   <data name="C600" xml:space="preserve">
-    <value>&amp;#917564;Six hundred&amp;#917568;&amp;#917553;&amp;#917553;&amp;#917557;&amp;#917554;&amp;#917561;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917553;&amp;#917561;&amp;#917555;&amp;#917566;</value>
+    <value>&amp;#917564;Six hundred&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
   </data>
   <data name="C700" xml:space="preserve">
-    <value>&amp;#917564;Seven hundred.&amp;#917568;&amp;#917553;&amp;#917553;&amp;#917557;&amp;#917554;&amp;#917561;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917553;&amp;#917561;&amp;#917555;&amp;#917566;</value>
+    <value>&amp;#917564;Seven hundred.&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
   </data>
   <data name="C800" xml:space="preserve">
-    <value>&amp;#917564;Priority&amp;#917568;&amp;#917553;&amp;#917553;&amp;#917557;&amp;#917554;&amp;#917561;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917553;&amp;#917561;&amp;#917555;&amp;#917566;</value>
+    <value>&amp;#917564;Priority&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
   </data>
   <data name="C801" xml:space="preserve">
-    <value>&amp;#917564;Severity&amp;#917568;&amp;#917553;&amp;#917553;&amp;#917557;&amp;#917554;&amp;#917561;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917553;&amp;#917561;&amp;#917555;&amp;#917566;</value>
+    <value>&amp;#917564;Severity&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
+  </data>
+  <data name="C900" xml:space="preserve">
+    <value>&amp;#917564;Is context URL present?&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917561;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
+  </data>
+  <data name="C901" xml:space="preserve">
+    <value>&amp;#917564;Should the context URL be present?&amp;#917568;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917558;&amp;#917561;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917566;</value>
   </data>
 </root>
