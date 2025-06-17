@@ -1,0 +1,8 @@
+{
+  "AddAsset": "アセットを追加",
+  "AddTutorial": "チュートリアルを追加",
+  "createdDashboard": "ダッシュボードを作成した",
+  "deletedDashboard": "ダッシュボードを削除した",
+  "deletedTask": "タスク ${taskName} を削除",
+  "useLink": "このリンクを使用"
+}
