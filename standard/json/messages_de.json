@@ -1,0 +1,8 @@
+{
+  "AddAsset": "Asset Hinzufügen",
+  "AddTutorial": "Tutorial Hinzufügen",
+  "createdDashboard": "Dashboard erstellt",
+  "deletedDashboard": "Dashboard gelöscht",
+  "deletedTask": "Aufgabe ${taskName} gelöscht",
+  "useLink": "Verwenden Sie diesen Link"
+}
