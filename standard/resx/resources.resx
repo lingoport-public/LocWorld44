@@ -82,27 +82,27 @@
     <comment>{0} - Account id</comment>
   </data>
   <data name="C200" xml:space="preserve">
-    <value>Two hundred</value>
+    <value>Billing</value>
   </data>
   <data name="C300" xml:space="preserve">
-    <value>Three hundred.</value>
+    <value>Pending Top-up</value>
   </data>
   <data name="C400" xml:space="preserve">
-    <value>Four hundred</value>
+    <value>Type</value>
   </data>
   <data name="C500" xml:space="preserve">
-    <value>Five hundred.</value>
+    <value>Status</value>
   </data>
   <data name="C600" xml:space="preserve">
-    <value>Six hundred</value>
+    <value>Note</value>
   </data>
   <data name="C700" xml:space="preserve">
-    <value>Seven hundred.</value>
+    <value>Timesheet</value>
   </data>
   <data name="C800" xml:space="preserve">
-    <value>Priority</value>
+    <value>UPGRADE</value>
   </data>
   <data name="C801" xml:space="preserve">
-    <value>Severity</value>
+    <value>This week</value>
   </data>
 </root>
