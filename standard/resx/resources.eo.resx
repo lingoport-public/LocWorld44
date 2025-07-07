@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+     -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"></xsd:import>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="type" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="mimetype" type="xsd:string"></xsd:attribute>
+              <xsd:attribute ref="xml:space"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="name" type="xsd:string"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" msdata:Ordinal="1" type="xsd:string"></xsd:element>
+                <xsd:element minOccurs="0" name="comment" msdata:Ordinal="2" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" msdata:Ordinal="1" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="type" msdata:Ordinal="3" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="mimetype" msdata:Ordinal="4" type="xsd:string"></xsd:attribute>
+              <xsd:attribute ref="xml:space"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" msdata:Ordinal="1" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" type="xsd:string"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="WarningThisAccountGroupNameAlreadyExistsWithDifferentSortOrders" xml:space="preserve">
+    <value>[Ţĥîš [Åççöûñţ] Ĝŕöûþ Ñåɱé åļŕéåðý éẋîšţš îñ ţĥé ţåƀļé ɱöŕé ţĥåñ öñçé ŵîţĥ ðîƒƒéŕéñţ šöŕţ öŕðéŕš, ţĥé šöŕţ öŕðéŕš ŵîļļ ƀé šéţ ţö {0} ţö ƀé çöñšîšţéñţ.------------------------------------- П國カ내]</value>
+    <comment>Sort level</comment>
+  </data>
+  <data name="WarningThisSummaryAccountGroupNameAlreadyExistsWithDifferentSortOrders" xml:space="preserve">
+    <value>[Ţĥîš Šûɱɱåŕý [Åççöûñţ] Ĝŕöûþ Ñåɱé åļŕéåðý éẋîšţš îñ ţĥé ţåƀļé ɱöŕé ţĥåñ öñçé ŵîţĥ ðîƒƒéŕéñţ šöŕţ öŕðéŕš, ţĥé šöŕţ öŕðéŕš ŵîļļ ƀé šéţ ţö {0} ţö ƀé çöñšîšţéñţ.---------------------------------------- П國カ내]</value>
+    <comment>Sort level</comment>
+  </data>
+  <data name="ErrorAccountDoesNotExist" xml:space="preserve">
+    <value>[[Åççöûñţ] {0} ðöéš ñöţ éẋîšţ.---------------- П國カ내]</value>
+    <comment>{0} - Account id</comment>
+  </data>
+  <data name="C200" xml:space="preserve">
+    <value>[Ɓîļļîñĝ------- П國カ내]</value>
+  </data>
+  <data name="C300" xml:space="preserve">
+    <value>[Þéñðîñĝ Ţöþ-ûþ------- П國カ내]</value>
+  </data>
+  <data name="C400" xml:space="preserve">
+    <value>[Ţýþé- П國カ내]</value>
+  </data>
+  <data name="C500" xml:space="preserve">
+    <value>[Šţåţûš----- П國カ내]</value>
+  </data>
+  <data name="C600" xml:space="preserve">
+    <value>[Ñöţé- П國カ내]</value>
+  </data>
+  <data name="C700" xml:space="preserve">
+    <value>[Ţîɱéšĥééţ----------- П國カ내]</value>
+  </data>
+  <data name="C800" xml:space="preserve">
+    <value>[ÛÞĜŔÅÐÉ------- П國カ내]</value>
+  </data>
+  <data name="C801" xml:space="preserve">
+    <value>[Ţĥîš ŵééķ----------- П國カ내]</value>
+  </data>
+</root>
