@@ -1,8 +1,8 @@
 {
-  "AddAsset": "agregar activo",
-  "AddTutorial": "agregar tutorial",
-  "createdDashboard": "creó el tablero",
-  "deletedDashboard": "eliminar el tablero",
-  "deletedTask": "eliminar la tarea ${taskName}",
-  "useLink": "usa este enlace"
+  "AddAsset": "Añadir Asset",
+  "AddTutorial": "Añadir tutorial",
+  "createdDashboard": "creó el dashboard",
+  "deletedDashboard": "eliminado el dashboard",
+  "deletedTask": "Eliminada la tarea ${taskName}",
+  "useLink": "utilice este enlace"
 }
