@@ -1,6 +1,6 @@
 {
   "Upgrade": "UPGRADE",
-  "AddTutorial": " Add Tutorial",
+  "LastName": "Last",
   "createdDashboard": "created the dashboard",
   "deletedDashboard": "deleted the dashboard",
   "deletedTask": "deleted the task ${taskName}",
