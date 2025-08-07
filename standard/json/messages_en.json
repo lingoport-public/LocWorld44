@@ -3,6 +3,6 @@
   "LastName": "Last",
   "createdDashboard": "created the dashboard",
   "deletedDashboard": "deleted the dashboard",
-  "deletedTask" "deleted the task ${taskName}",
+  "deletedTask": "deleted the task ${taskName}",
   "useLink": "use this link"
 }
