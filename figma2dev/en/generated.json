@@ -1,3 +1,13 @@
 {
-  "initial":"Initial"
+  "initial": "Initial",
+  "test_message_3": "message",
+  "test_next_2": "next",
+  "test_Register_13": "Registration",
+  "test_signup_12": "sign up",
+  "test_Bysignin_11": "By signing up, you agree to Photo\\u2019s Terms of Service and \\nPrivacy Policy.",
+  "test_Register_1": "Register",
+  "Login": "Log in",
+  "test_Login_1": "Log in",
+  "Search": "Search",
+  "test_Searchal_1": "Search all photos"
 }
