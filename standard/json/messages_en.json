@@ -1,16 +1,4 @@
 {
-  "AddAsset": " Add Asset",
-  "AddTutorial": " Add Tutorial",
-  "createdDashboard": "created the dashboard",
-  "deletedDashboard": "deleted the dashboard",
   "deletedTask": "deleted the task ${taskName}",
-  "election": "Elections",
-  "results": "Results",
-  "useLink": "use this link",
-  "open":"Open",
-  "fix":"Fix",
-  "QA": "Quality Assurance",
-  "Prod": "Production Lane",
-  "JSON": "JSON files test",
-  "RESX": "resx files test"
+  "jsonTest": "JSON files test"
 }
