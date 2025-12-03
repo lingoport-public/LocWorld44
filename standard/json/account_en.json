@@ -19,6 +19,6 @@
     "ENCRYPTION_KEY_IS_NOT_UNIQUE": "Password is not unique.",
     "_UNDERSCORE_KEY": "Underscore Key",
     "_UNDERSCORE_KEY2": "Underscore Key 2",
-    "#POUND_KEY": "Pound Key",
+    "#POUND_KEY": "Pound Key changed",
     "FINAL_KEY": "Final Key"
   }
