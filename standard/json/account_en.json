@@ -18,5 +18,7 @@
     "UNIT_OR_TENANT_HAS_IOT_NETWORK_CONFIGURATION": "Unit or tenant has IoT network configuration",
     "ENCRYPTION_KEY_IS_NOT_UNIQUE": "Password is not unique.",
     "_UNDERSCORE_KEY": "Underscore Key",
-    "#POUND_KEY": "Pound Key"
+    "_UNDERSCORE_KEY2": "Underscore Key 2",
+    "#POUND_KEY": "Pound Key",
+    "FINAL_KEY": "Final Key"
   }
