@@ -16,5 +16,6 @@
     "CANNOT_SET_ACCOUNT_ID_ON_UNIT": "Cannot set account ID on unit when unit is not bulk pay",
     "CANNOT_SET_ACCOUNT_ID_ON_TENANT": "Cannot set account ID on tenant when unit is bulk pay",
     "UNIT_OR_TENANT_HAS_IOT_NETWORK_CONFIGURATION": "Unit or tenant has IoT network configuration",
-    "ENCRYPTION_KEY_IS_NOT_UNIQUE": "Password is not unique."
+    "ENCRYPTION_KEY_IS_NOT_UNIQUE": "Password is not unique.",
+    "_UNDERSCORE_KEY": "Underscore Key"
   }
