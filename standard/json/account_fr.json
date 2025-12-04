@@ -19,5 +19,6 @@
   "UNIT_OR_TENANT_HAS_IOT_NETWORK_CONFIGURATION": "Unit or tenant has IoT network configuration",
   "ENCRYPTION_KEY_IS_NOT_UNIQUE": "Password is not unique.",
   "PASSWORD_WAS_CHANGED": "Your password was changed",
-  "SPACEs ARE IN THIS KEY!": "Spaces are in this value!"
+  "SPACEs ARE IN THIS KEY!": "Spaces are in this value!",
+  "B9226": "Tietue, joka sisälsi nimen {name}, liitettiin Sukupuuhun {attachmentDate}. Teit {gender, select, male {hänen} female {hänen} other {hänen}} nimensä löydettäväksi, kun tarkistit {gender, select, male {hänen} female {hänen} other {hänen}} perheensä {contributionDate}."
 }
