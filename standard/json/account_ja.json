@@ -19,5 +19,18 @@
   "UNIT_OR_TENANT_HAS_IOT_NETWORK_CONFIGURATION": "Unit or tenant has IoT network configuration",
   "ENCRYPTION_KEY_IS_NOT_UNIQUE": "Password is not unique.",
   "PASSWORD_WAS_CHANGED": "Your password was changed",
-  "SPACEs ARE IN THIS KEY!": "Spaces are in this value!"
+  "SPACEs ARE IN THIS KEY!": "Spaces are in this value!",
+  "FK_Starter_15": "スターター",
+  "FK_Browseall_16": "すべて閲覧",
+  "FK_return_17": "帰る",
+  "FK_space_18": "スペース",
+  "FK_register_19": "登録します",
+  "FK_login_20": "ログイン",
+  "FK_register_21": "登録します",
+  "FK_photo_22": "写真",
+  "FK_return_23": "帰る",
+  "FK_space_24": "スペース",
+  "FK_Search_25": "検索",
+  "FK_Searchallphotos_26": "すべての写真を検索",
+  "FK_next_27": "次へ進みます"
 }

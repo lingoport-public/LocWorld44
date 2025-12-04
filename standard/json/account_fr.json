@@ -20,5 +20,18 @@
   "ENCRYPTION_KEY_IS_NOT_UNIQUE": "Password is not unique.",
   "PASSWORD_WAS_CHANGED": "Your password was changed",
   "SPACEs ARE IN THIS KEY!": "Spaces are in this value!",
-  "B9226": "Tietue, joka sisälsi nimen {name}, liitettiin Sukupuuhun {attachmentDate}. Teit {gender, select, male {hänen} female {hänen} other {hänen}} nimensä löydettäväksi, kun tarkistit {gender, select, male {hänen} female {hänen} other {hänen}} perheensä {contributionDate}."
+  "B9226": "Tietue, joka sisälsi nimen {name}, liitettiin Sukupuuhun {attachmentDate}. Teit {gender, select, male {hänen} female {hänen} other {hänen}} nimensä löydettäväksi, kun tarkistit {gender, select, male {hänen} female {hänen} other {hänen}} perheensä {contributionDate}.",
+  "FK_Starter_15": "Starter",
+  "FK_Browseall_16": "Tout parcourir",
+  "FK_return_17": "revenir",
+  "FK_space_18": "espace",
+  "FK_register_19": "s'inscrire",
+  "FK_login_20": "se connecter",
+  "FK_register_21": "s'inscrire",
+  "FK_photo_22": "photo",
+  "FK_return_23": "revenir",
+  "FK_space_24": "espace",
+  "FK_Search_25": "Rechercher",
+  "FK_Searchallphotos_26": "Rechercher parmi les photos",
+  "FK_next_27": "suivant"
 }
