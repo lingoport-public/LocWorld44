@@ -19,5 +19,6 @@
     "UNIT_OR_TENANT_HAS_IOT_NETWORK_CONFIGURATION": "Unit or tenant has IoT network configuration",
     "ENCRYPTION_KEY_IS_NOT_UNIQUE": "Password is not unique.",
     "PASSWORD_WAS_CHANGED": "Your password was changed",
-    "SPACEs ARE IN THIS KEY!": " Spaces are in this value!"
+    "SPACEs ARE IN THIS KEY!": " Spaces are in this value!",
+    "B9226": "Someone attached a record with {name} to Family Tree on {attachmentDate}. You made {gender, select, male {his} female {her} other {their}} name findable when you reviewed {gender, select, male {his} female {her} other {their}} family on {contributionDate}."
   }
