@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+  <string name="action_cancelled">113.207755 Action Canceled</string>
+  <string name="no_internet_title">113.207756 No Internet Connection</string>
+  <string name="internet_disconnect_try_again">113.207757 This action cannot be completed. Please check your connection, and try again.</string>
+  <string name="ok">113.207758 OK</string>
+  <string name="cancel">113.207759 Cancel</string>
+  <string name="CDATA_DRAG_IMPORT"><![CDATA[113.207760 Drag here to Import]]></string>
+  <string name="CDATA_DRAG_EXORT"><![CDATA[113.207761 Drag here to Export]]></string>
+</resources>
