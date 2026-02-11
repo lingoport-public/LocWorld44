@@ -5,4 +5,5 @@
   <string name="internet_disconnect_try_again">This action cannot be completed. Please check your connection, and try again.</string>
   <string name="ok">OK</string>
   <string name="cancel">Cancel</string>
+  <string name="CDATA_SKIP">Are you sure you want to skip:<![CDATA[<br/><b><font color=#006ab1>%1$s?</font></b>]]></string>
 </resources>
