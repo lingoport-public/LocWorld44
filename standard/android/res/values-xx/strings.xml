@@ -7,4 +7,8 @@
   <string name="cancel">113.207759 Cancel</string>
   <string name="CDATA_DRAG_IMPORT"><![CDATA[113.207760 Drag here to Import]]></string>
   <string name="CDATA_DRAG_EXORT"><![CDATA[113.207761 Drag here to Export]]></string>
+  <string name="CDATA_BAD_SKIP"><![CDATA[113.207762 Are you sure you want to skip:<![CDATA[<br/><b><font color=#006ab1>%1$s?</font></b>]]>]]></string>
+  <string name="CDATA_GOOD_SKIP"><![CDATA[113.207763 Are you sure you want to skip:<br/><b><font color=#006ab1>%1$s?</font></b>]]></string>
+  <string name="CDATA_BAD_DEST"><![CDATA[113.207764 Copying <b><font color=#006ab1>&quot;%1$s&quot;</font></b>]]></string>
+  <string name="CDATA_GOOD_DEST"><![CDATA[113.207765 Copying <b><font color=#006ab1>&quot;%1$s&quot;</font></b><br/> Please select a desired destination.]]></string>
 </resources>
