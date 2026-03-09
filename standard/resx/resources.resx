@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -11,46 +11,46 @@
     associated with the data types.
     
      -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"></xsd:import>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element minOccurs="0" name="value" type="xsd:string"></xsd:element>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute use="required" name="name" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="type" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="mimetype" type="xsd:string"></xsd:attribute>
+              <xsd:attribute ref="xml:space"></xsd:attribute>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="name" type="xsd:string"></xsd:attribute>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element minOccurs="0" name="value" msdata:Ordinal="1" type="xsd:string"></xsd:element>
+                <xsd:element minOccurs="0" name="comment" msdata:Ordinal="2" type="xsd:string"></xsd:element>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute use="required" name="name" msdata:Ordinal="1" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="type" msdata:Ordinal="3" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="mimetype" msdata:Ordinal="4" type="xsd:string"></xsd:attribute>
+              <xsd:attribute ref="xml:space"></xsd:attribute>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element minOccurs="0" name="value" msdata:Ordinal="1" type="xsd:string"></xsd:element>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute use="required" name="name" type="xsd:string"></xsd:attribute>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -110,5 +110,47 @@
   </data>
   <data name="C803" xml:space="preserve">
     <value>Send to translation</value>
+  </data>
+  <data name="FK_Starter_15">
+    <value><![CDATA[Starter]]></value>
+  </data>
+  <data name="FK_Browseall_16">
+    <value><![CDATA[Browse all]]></value>
+  </data>
+  <data name="FK_return_17">
+    <value><![CDATA[return]]></value>
+  </data>
+  <data name="FK_space_18">
+    <value><![CDATA[space]]></value>
+  </data>
+  <data name="FK_register_19">
+    <value><![CDATA[register]]></value>
+  </data>
+  <data name="FK_login_20">
+    <value><![CDATA[log in]]></value>
+  </data>
+  <data name="FK_register_21">
+    <value><![CDATA[register]]></value>
+  </data>
+  <data name="FK_photo_22">
+    <value><![CDATA[photo]]></value>
+  </data>
+  <data name="FK_return_23">
+    <value><![CDATA[return]]></value>
+  </data>
+  <data name="FK_space_24">
+    <value><![CDATA[space]]></value>
+  </data>
+  <data name="FK_Search_25">
+    <value><![CDATA[Search]]></value>
+  </data>
+  <data name="FK_Searchallphotos_26">
+    <value><![CDATA[Search all photos]]></value>
+  </data>
+  <data name="FK_next_27">
+    <value><![CDATA[next]]></value>
+  </data>
+  <data name="FK_FieldName_28">
+    <value><![CDATA[Field Name]]></value>
   </data>
 </root>
