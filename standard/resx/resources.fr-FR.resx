@@ -124,13 +124,13 @@
     <value><![CDATA[espace]]></value>
   </data>
   <data name="FK_register_19">
-    <value><![CDATA[s'inscrire]]></value>
+    <value><![CDATA[s\'inscrire]]></value>
   </data>
   <data name="FK_login_20">
     <value><![CDATA[se connecter]]></value>
   </data>
   <data name="FK_register_21">
-    <value><![CDATA[s'inscrire]]></value>
+    <value><![CDATA[s\'inscrire]]></value>
   </data>
   <data name="FK_photo_22">
     <value><![CDATA[photo]]></value>
