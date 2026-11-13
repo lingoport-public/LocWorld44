@@ -1,8 +1,8 @@
 {
-  "AddAsset": " Ajouter ",
-  "AddTutorial": " Ajouter Tutoriel",
-  "createdDashboard": "Créer le tableau de bord",
-  "deletedDashboard": "Supprimer le tableau de bord",
-  "deletedTask": "Supprimer la tâche ${taskName}",
-  "useLink": "Suive le lien"
+  "AddAsset": " Ajouter un actif",
+  "AddTutorial": " Ajouter un tutoriel",
+  "createdDashboard": "créé le tableau de bord",
+  "deletedDashboard": "a supprimé le tableau de bord",
+  "deletedTask": "supprimé la tâche ${taskName}",
+  "useLink": "utilisez ce lien"
 }
